@@ -1,0 +1,1656 @@
+{
+  "Soups": {
+    "Tomato Soup": {
+      "name": "Tomato Soup",
+      "price": 90,
+      "imgurl": "https://i.ibb.co/r2Sq7L0P/tomato-soup-recipe.jpg",
+      "description": "A warm and tangy soup made from fresh tomatoes."
+    },
+    "Manchow Soup": {
+      "name": "Manchow Soup",
+      "price": 90,
+      "imgurl": "https://i.ibb.co/dJmf7Wp1/manchow-soup.jpg",
+      "description": "A spicy Indo-Chinese soup with vegetables and soy sauce."
+    },
+    "Hot & Sour": {
+      "name": "Hot & Sour",
+      "price": 90,
+      "imgurl": "https://i.ibb.co/1gT9ZdD/hot-and-sour-soup.jpg",
+      "description": "A flavorful soup with a perfect balance of spice and sourness."
+    },
+    "Cream Of Veg Soup": {
+      "name": "Cream Of Veg Soup",
+      "price": 120,
+      "imgurl": "https://i.ibb.co/6Rvhr1NS/Creamy-Veg-Soup-square.webp",
+      "description": "A creamy soup made with a blend of fresh vegetables."
+    },
+    "Cream Of Mushroom Soup": {
+      "name": "Cream Of Mushroom Soup",
+      "price": 130,
+      "imgurl": "https://i.ibb.co/nMT5N6df/mushroom-soup.jpg",
+      "description": "A rich and creamy soup prepared with fresh mushrooms."
+    },
+    "Cream Of Sweet Corn Soup": {
+      "name": "Cream Of Sweet Corn Soup",
+      "price": 140,
+      "imgurl": "https://i.ibb.co/ym8qVdh5/sweet-corn-soup.jpg",
+      "description": "A sweet and creamy soup made from tender sweet corn."
+    },
+    "Chinese Noodle Soup": {
+      "name": "Chinese Noodle Soup",
+      "price": 130,
+      "imgurl": "https://i.ibb.co/27QcWyHn/chinies-noodle-soup.jpg",
+      "description": "A light soup with noodles and Chinese seasonings."
+    },
+    "Mushroom Noodle Soup": {
+      "name": "Mushroom Noodle Soup",
+      "price": 140,
+      "imgurl": "https://i.ibb.co/W4xjks6H/mushroom-noodle-soup.jpg",
+      "description": "A savory soup with mushrooms and noodles."
+    },
+    "Coriander Lemon Soup": {
+      "name": "Coriander Lemon Soup",
+      "price": 140,
+      "imgurl": "https://i.ibb.co/DPjTcQkL/Lemon-Coriander-Soup.webp",
+      "description": "A refreshing soup with coriander and a hint of lemon."
+    }
+  },
+  "Chinese Starters": {
+    "Gobi Manchurian": {
+      "name": "Gobi Manchurian",
+      "price": 110,
+      "imgurl": "https://i.ibb.co/wZPWnyY4/gobi-manchurian.jpg",
+      "description": "A spicy Indo-Chinese starter made with cauliflower."
+    },
+    "Baby Corn Manchurian": {
+      "name": "Baby Corn Manchurian",
+      "price": 130,
+      "imgurl": "https://i.ibb.co/N2XVtQH3/baby-corn-manchurian.jpg",
+      "description": "Crispy baby corn tossed in a spicy Manchurian sauce."
+    },
+    "Mushroom Manchurian": {
+      "name": "Mushroom Manchurian",
+      "price": 140,
+      "imgurl": "https://i.ibb.co/1fqdd0rz/mushroom-manchurian.jpg",
+      "description": "Mushrooms cooked in a tangy and spicy Manchurian gravy."
+    },
+    "Paneer Manchurian": {
+      "name": "Paneer Manchurian",
+      "price": 160,
+      "imgurl": "https://i.ibb.co/B27TqGdm/paneer-manchurian.png",
+      "description": "Soft paneer cubes in a flavorful Manchurian sauce."
+    },
+    "Mixed Manchurian": {
+      "name": "Mixed Manchurian",
+      "price": 170,
+      "imgurl": "https://i.ibb.co/4g7RXyC9/mixed-manchurian.webp",
+      "description": "A mix of veggies and paneer in Manchurian sauce."
+    },
+    "Gobi Chilly": {
+      "name": "Gobi Chilly",
+      "price": 120,
+      "imgurl": "https://i.ibb.co/WvNc5vSC/Chilli-gobi.jpg",
+      "description": "Crispy cauliflower in a spicy chilly sauce."
+    },
+    "Baby Corn Chilly": {
+      "name": "Baby Corn Chilly",
+      "price": 130,
+      "imgurl": "https://i.ibb.co/fYmLC0T5/baby-corn-chilly.jpg",
+      "description": "Baby corn stir-fried with spicy chilly flavors."
+    },
+    "Mushroom Chilly": {
+      "name": "Mushroom Chilly",
+      "price": 140,
+      "imgurl": "https://i.ibb.co/KxSZH32Y/mushroom-chilly.jpg",
+      "description": "Mushrooms tossed in a spicy chilly preparation."
+    },
+    "Paneer Chilly": {
+      "name": "Paneer Chilly",
+      "price": 160,
+      "imgurl": "https://i.ibb.co/nNz0K8ZM/paneer-chilly.webp",
+      "description": "Paneer cubes cooked with spicy chilly sauce."
+    },
+    "Mixed Chilly": {
+      "name": "Mixed Chilly",
+      "price": 170,
+      "imgurl": "https://i.ibb.co/Jw96wdpf/mixed-chilli.jpg",
+      "description": "A mix of veggies and paneer in chilly sauce."
+    },
+    "Gobi 65": {
+      "name": "Gobi 65",
+      "price": 140,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Crispy cauliflower fritters with a spicy coating."
+    },
+    "Baby Corn 65": {
+      "name": "Baby Corn 65",
+      "price": 150,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Spicy and crispy baby corn fritters."
+    },
+    "Mushroom 65": {
+      "name": "Mushroom 65",
+      "price": 160,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Mushrooms fried with a spicy 65 masala."
+    },
+    "Paneer 65": {
+      "name": "Paneer 65",
+      "price": 180,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Paneer cubes fried with a spicy 65 seasoning."
+    },
+    "Mixed 65": {
+      "name": "Mixed 65",
+      "price": 190,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "A mix of veggies and paneer in 65 style."
+    },
+    "Gobi Pepper": {
+      "name": "Gobi Pepper",
+      "price": 130,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Cauliflower stir-fried with black pepper."
+    },
+    "Baby Corn Pepper": {
+      "name": "Baby Corn Pepper",
+      "price": 140,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Baby corn cooked with a peppery twist."
+    },
+    "Mushroom Pepper": {
+      "name": "Mushroom Pepper",
+      "price": 150,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Mushrooms sautéed with black pepper."
+    },
+    "Paneer Pepper": {
+      "name": "Paneer Pepper",
+      "price": 170,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Paneer cubes with a peppery flavor."
+    },
+    "Mixed Pepper": {
+      "name": "Mixed Pepper",
+      "price": 180,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "A mix of veggies and paneer with pepper."
+    },
+    "Gobi Pepper Chilly": {
+      "name": "Gobi Pepper Chilly",
+      "price": 140,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Cauliflower with a blend of pepper and chilly."
+    },
+    "Baby Corn Pepper Chilly": {
+      "name": "Baby Corn Pepper Chilly",
+      "price": 150,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Baby corn with pepper and chilly flavors."
+    },
+    "Mushroom Pepper Chilly": {
+      "name": "Mushroom Pepper Chilly",
+      "price": 160,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Mushrooms with a spicy pepper-chilly mix."
+    },
+    "Paneer Pepper Chilly": {
+      "name": "Paneer Pepper Chilly",
+      "price": 180,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Paneer with a spicy pepper-chilly sauce."
+    },
+    "Mixed Pepper Chilly": {
+      "name": "Mixed Pepper Chilly",
+      "price": 180,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "A mix of veggies and paneer with pepper-chilly."
+    },
+    "Gobi Lemon Chilly": {
+      "name": "Gobi Lemon Chilly",
+      "price": 140,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Cauliflower with a lemony chilly twist."
+    },
+    "Baby Corn Lemon Chilly": {
+      "name": "Baby Corn Lemon Chilly",
+      "price": 150,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Baby corn with lemon and chilly flavors."
+    },
+    "Mushroom Lemon Chilly": {
+      "name": "Mushroom Lemon Chilly",
+      "price": 160,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Mushrooms with a lemon-chilly preparation."
+    },
+    "Paneer Lemon Chilly": {
+      "name": "Paneer Lemon Chilly",
+      "price": 180,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Paneer with a lemony chilly sauce."
+    },
+    "Mixed Lemon Chilly": {
+      "name": "Mixed Lemon Chilly",
+      "price": 190,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "A mix of veggies and paneer with lemon-chilly."
+    },
+    "Gobi Shanghai": {
+      "name": "Gobi Shanghai",
+      "price": 140,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Cauliflower in a Shanghai-style sauce."
+    },
+    "Baby Corn Shanghai": {
+      "name": "Baby Corn Shanghai",
+      "price": 150,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Baby corn in a Shanghai-style preparation."
+    },
+    "Mushroom Shanghai": {
+      "name": "Mushroom Shanghai",
+      "price": 160,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Mushrooms cooked in a Shanghai sauce."
+    },
+    "Paneer Shanghai": {
+      "name": "Paneer Shanghai",
+      "price": 180,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Paneer in a Shanghai-style sauce."
+    },
+    "Mixed Shanghai": {
+      "name": "Mixed Shanghai",
+      "price": 190,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "A mix of veggies and paneer in Shanghai style."
+    },
+    "Schezwan Gobi": {
+      "name": "Schezwan Gobi",
+      "price": 140,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Cauliflower in a spicy Schezwan sauce."
+    },
+    "Schezwan Baby Corn": {
+      "name": "Schezwan Baby Corn",
+      "price": 150,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Baby corn in a fiery Schezwan sauce."
+    },
+    "Schezwan Mushroom": {
+      "name": "Schezwan Mushroom",
+      "price": 160,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Mushrooms in a spicy Schezwan preparation."
+    },
+    "Schezwan Paneer": {
+      "name": "Schezwan Paneer",
+      "price": 180,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Paneer cubes in a bold Schezwan sauce."
+    },
+    "Mixed Schezwan": {
+      "name": "Mixed Schezwan",
+      "price": 190,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "A mix of veggies and paneer in Schezwan sauce."
+    },
+    "Gobi Garlic": {
+      "name": "Gobi Garlic",
+      "price": 140,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Cauliflower stir-fried with garlic."
+    },
+    "Baby Corn Garlic": {
+      "name": "Baby Corn Garlic",
+      "price": 150,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Baby corn with a garlic flavor."
+    },
+    "Mushroom Garlic": {
+      "name": "Mushroom Garlic",
+      "price": 160,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Mushrooms sautéed with garlic."
+    },
+    "Paneer Garlic": {
+      "name": "Paneer Garlic",
+      "price": 180,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Paneer cubes with a garlic twist."
+    },
+    "Mixed Garlic": {
+      "name": "Mixed Garlic",
+      "price": 190,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "A mix of veggies and paneer with garlic."
+    },
+    "Gobi Crispy": {
+      "name": "Gobi Crispy",
+      "price": 140,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Crispy fried cauliflower bites."
+    },
+    "Baby Corn Crispy": {
+      "name": "Baby Corn Crispy",
+      "price": 150,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Crispy fried baby corn pieces."
+    },
+    "Mushroom Crispy": {
+      "name": "Mushroom Crispy",
+      "price": 160,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Crispy fried mushrooms."
+    },
+    "Paneer Crispy": {
+      "name": "Paneer Crispy",
+      "price": 180,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Crispy fried paneer cubes."
+    },
+    "Mixed Crispy": {
+      "name": "Mixed Crispy",
+      "price": 190,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "A mix of veggies and paneer, crispy fried."
+    },
+    "Gobi Butter Garlic": {
+      "name": "Gobi Butter Garlic",
+      "price": 150,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Cauliflower with butter and garlic."
+    },
+    "Baby Corn Butter Garlic": {
+      "name": "Baby Corn Butter Garlic",
+      "price": 160,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Baby corn with a buttery garlic flavor."
+    },
+    "Mushroom Butter Garlic": {
+      "name": "Mushroom Butter Garlic",
+      "price": 170,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Mushrooms with butter and garlic."
+    },
+    "Paneer Butter Garlic": {
+      "name": "Paneer Butter Garlic",
+      "price": 190,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Paneer with a rich butter-garlic sauce."
+    },
+    "Mixed Butter Garlic": {
+      "name": "Mixed Butter Garlic",
+      "price": 200,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "A mix of veggies and paneer with butter-garlic."
+    }
+  },
+  "Chinese Gravies": {
+    "Gobi Manchurian Gravy": {
+      "name": "Gobi Manchurian Gravy",
+      "price": 150,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Cauliflower in a thick Manchurian gravy."
+    },
+    "Baby Corn Manchurian Gravy": {
+      "name": "Baby Corn Manchurian Gravy",
+      "price": 170,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Baby corn in a savory Manchurian gravy."
+    },
+    "Mushroom Manchurian Gravy": {
+      "name": "Mushroom Manchurian Gravy",
+      "price": 170,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Mushrooms in a rich Manchurian gravy."
+    },
+    "Paneer Manchurian Gravy": {
+      "name": "Paneer Manchurian Gravy",
+      "price": 190,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Paneer in a flavorful Manchurian gravy."
+    },
+    "Mixed Manchurian Gravy": {
+      "name": "Mixed Manchurian Gravy",
+      "price": 200,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "A mix of veggies and paneer in Manchurian gravy."
+    },
+    "Gobi Chilly Gravy": {
+      "name": "Gobi Chilly Gravy",
+      "price": 150,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Cauliflower in a spicy chilly gravy."
+    },
+    "Baby Corn Chilly Gravy": {
+      "name": "Baby Corn Chilly Gravy",
+      "price": 170,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Baby corn in a spicy chilly gravy."
+    },
+    "Mushroom Chilly Gravy": {
+      "name": "Mushroom Chilly Gravy",
+      "price": 170,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Mushrooms in a spicy chilly gravy."
+    },
+    "Paneer Chilly Gravy": {
+      "name": "Paneer Chilly Gravy",
+      "price": 190,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Paneer in a spicy chilly gravy."
+    },
+    "Mixed Chilly Gravy": {
+      "name": "Mixed Chilly Gravy",
+      "price": 200,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "A mix of veggies and paneer in chilly gravy."
+    }
+  },
+  "Tandoor Starters": {
+    "Paneer Tikka": {
+      "name": "Paneer Tikka",
+      "price": 210,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Marinated paneer cubes grilled in a tandoor."
+    },
+    "Paneer Lasooni Tikka": {
+      "name": "Paneer Lasooni Tikka",
+      "price": 230,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Paneer tikka with a garlic flavor."
+    },
+    "Paneer Mastani Tikka": {
+      "name": "Paneer Mastani Tikka",
+      "price": 230,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Rich and creamy paneer tikka."
+    },
+    "Paneer Hariyali Tikka": {
+      "name": "Paneer Hariyali Tikka",
+      "price": 230,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Paneer tikka with green herbs."
+    },
+    "Paneer Kalmi Tikka": {
+      "name": "Paneer Kalmi Tikka",
+      "price": 240,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Thick paneer pieces in tandoor."
+    },
+    "Paneer Sholay Tikka": {
+      "name": "Paneer Sholay Tikka",
+      "price": 250,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Paneer tikka with a unique spice blend."
+    },
+    "Paneer Malai Tikka": {
+      "name": "Paneer Malai Tikka",
+      "price": 250,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Creamy paneer tikka marinated in malai."
+    },
+    "Mushroom Lasooni Tikka": {
+      "name": "Mushroom Lasooni Tikka",
+      "price": 190,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Mushrooms with garlic tandoor flavor."
+    },
+    "Mushroom Mastani Tikka": {
+      "name": "Mushroom Mastani Tikka",
+      "price": 190,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Creamy mushroom tikka."
+    },
+    "Mushroom Hariyali Tikka": {
+      "name": "Mushroom Hariyali Tikka",
+      "price": 190,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Mushrooms with green herb marinade."
+    },
+    "Mushroom Kalmi Tikka": {
+      "name": "Mushroom Kalmi Tikka",
+      "price": 200,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Thick mushroom pieces in tandoor."
+    },
+    "Mushroom Sholay Tikka": {
+      "name": "Mushroom Sholay Tikka",
+      "price": 210,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Mushrooms with a special spice blend."
+    },
+    "Mushroom Malai Tikka": {
+      "name": "Mushroom Malai Tikka",
+      "price": 210,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Creamy mushroom tikka in malai."
+    }
+  },
+  "Varieties of Noodles and Fried Rice": {
+    "Vegetable Noodles/Rice": {
+      "name": "Vegetable Noodles/Rice",
+      "price": 140,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Noodles or rice with mixed vegetables."
+    },
+    "Mushroom Noodles/Rice": {
+      "name": "Mushroom Noodles/Rice",
+      "price": 160,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Noodles or rice with mushrooms."
+    },
+    "Baby Corn Noodles/Rice": {
+      "name": "Baby Corn Noodles/Rice",
+      "price": 160,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Noodles or rice with baby corn."
+    },
+    "Paneer Noodles/Rice": {
+      "name": "Paneer Noodles/Rice",
+      "price": 180,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Noodles or rice with paneer."
+    },
+    "Cheese Noodles/Rice": {
+      "name": "Cheese Noodles/Rice",
+      "price": 190,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Noodles or rice with a cheesy topping."
+    },
+    "Mixed Noodles/Rice": {
+      "name": "Mixed Noodles/Rice",
+      "price": 190,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Noodles or rice with mixed veggies and paneer."
+    },
+    "Schezwan Noodles/Rice": {
+      "name": "Schezwan Noodles/Rice",
+      "price": 190,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Spicy Schezwan-flavored noodles or rice."
+    },
+    "Schezwan Mushroom Noodles/Rice": {
+      "name": "Schezwan Mushroom Noodles/Rice",
+      "price": 190,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Mushroom noodles or rice with Schezwan sauce."
+    },
+    "Schezwan Baby Corn Noodles/Rice": {
+      "name": "Schezwan Baby Corn Noodles/Rice",
+      "price": 190,
+      "imgurl": "https://placehold.co/400-rice.jpg",
+      "description": "Baby corn noodles or rice with Schezwan sauce."
+    },
+    "Schezwan Paneer Noodles/Rice": {
+      "name": "Schezwan Paneer Noodles/Rice",
+      "price": 210,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Paneer noodles or rice with Schezwan sauce."
+    },
+    "Mixed Schezwan Noodles/Rice": {
+      "name": "Mixed Schezwan Noodles/Rice",
+      "price": 220,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Mixed veggies and paneer with Schezwan sauce."
+    },
+    "Mushroom Tikka Noodles/Rice": {
+      "name": "Mushroom Tikka Noodles/Rice",
+      "price": 220,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Tikka-flavored mushroom noodles or rice."
+    },
+    "Paneer Tikka Noodles/Rice": {
+      "name": "Paneer Tikka Noodles/Rice",
+      "price": 240,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Tikka-flavored paneer noodles or rice."
+    },
+    "Mixed Tikka Noodles/Rice": {
+      "name": "Mixed Tikka Noodles/Rice",
+      "price": 250,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Mixed veggies and paneer with tikka flavor."
+    },
+    "Dragon Noodles/Rice": {
+      "name": "Dragon Noodles/Rice",
+      "price": 230,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Spicy dragon-style noodles or rice."
+    },
+    "Dragon Paneer Noodles/Rice": {
+      "name": "Dragon Paneer Noodles/Rice",
+      "price": 260,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Paneer with dragon-style noodles or rice."
+    },
+    "Dragon Mushroom Noodles/Rice": {
+      "name": "Dragon Mushroom Noodles/Rice",
+      "price": 240,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Mushroom with dragon-style noodles or rice."
+    },
+    "Mixed Dragon Noodles/Rice": {
+      "name": "Mixed Dragon Noodles/Rice",
+      "price": 260,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Mixed veggies and paneer with dragon style."
+    }
+  },
+  "Rava Specialties": {
+    "Rava Masala Dosa": {
+      "name": "Rava Masala Dosa",
+      "price": 75,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Crispy rava dosa filled with masala."
+    },
+    "Rava Plain Dosa": {
+      "name": "Rava Plain Dosa",
+      "price": 65,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Crispy plain rava dosa."
+    },
+    "Onion Rava Masala": {
+      "name": "Onion Rava Masala",
+      "price": 85,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Rava dosa with onion and masala."
+    },
+    "Onion Rava Plain": {
+      "name": "Onion Rava Plain",
+      "price": 75,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Plain rava dosa with onions."
+    },
+    "Cashew Rava Masala": {
+      "name": "Cashew Rava Masala",
+      "price": 100,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Rava dosa with cashews and masala."
+    },
+    "Cashew Rava Plain": {
+      "name": "Cashew Rava Plain",
+      "price": 90,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Plain rava dosa with cashews."
+    },
+    "Rava Butter Masala": {
+      "name": "Rava Butter Masala",
+      "price": 85,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Buttered rava dosa with masala."
+    },
+    "Onion Butter Masala": {
+      "name": "Onion Butter Masala",
+      "price": 95,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Buttered rava dosa with onion and masala."
+    },
+    "Chi Butter Masala": {
+      "name": "Chi Butter Masala",
+      "price": 110,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Buttered rava dosa with a special masala."
+    }
+  },
+  "Dosa Specialties": {
+    "Masala Dosa": {
+      "name": "Masala Dosa",
+      "price": 60,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Crispy dosa filled with potato masala."
+    },
+    "Plain Dosa": {
+      "name": "Plain Dosa",
+      "price": 55,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Simple and crispy plain dosa."
+    },
+    "Tuppa Dosa": {
+      "name": "Tuppa Dosa",
+      "price": 55,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Dosa cooked with ghee."
+    },
+    "Set Dosa": {
+      "name": "Set Dosa",
+      "price": 60,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Soft and fluffy set dosa."
+    },
+    "Butter Dosa": {
+      "name": "Butter Dosa",
+      "price": 60,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Dosa topped with butter."
+    },
+    "Butter Masala Dosa": {
+      "name": "Butter Masala Dosa",
+      "price": 75,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Buttered dosa with potato masala."
+    },
+    "Mysore Plain Dosa": {
+      "name": "Mysore Plain Dosa",
+      "price": 65,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Plain dosa with Mysore chutney layer."
+    },
+    "Mysore Butter Masala Dosa": {
+      "name": "Mysore Butter Masala Dosa",
+      "price": 85,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Buttered Mysore dosa with masala."
+    },
+    "Mysore Butter Plain": {
+      "name": "Mysore Butter Plain",
+      "price": 75,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Buttered Mysore plain dosa."
+    },
+    "Onion Masala Dosa": {
+      "name": "Onion Masala Dosa",
+      "price": 75,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Dosa with onions and potato masala."
+    },
+    "Onion Dosa Plain": {
+      "name": "Onion Dosa Plain",
+      "price": 65,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Plain dosa topped with onions."
+    },
+    "Ghee Roast Masala": {
+      "name": "Ghee Roast Masala",
+      "price": 90,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Ghee-roasted dosa with masala."
+    }
+  },
+  "Biryanis": {
+    "Vegetable Biriyani": {
+      "name": "Vegetable Biriyani",
+      "price": 160,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Fragrant rice with mixed vegetables."
+    },
+    "Handy Biriyani": {
+      "name": "Handy Biriyani",
+      "price": 180,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "A unique style of vegetable biriyani."
+    },
+    "Hyderabadi Biriyani": {
+      "name": "Hyderabadi Biriyani",
+      "price": 180,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Spicy Hyderabadi-style veg biriyani."
+    },
+    "Mughlai Biriyani": {
+      "name": "Mughlai Biriyani",
+      "price": 180,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Rich Mughlai-style vegetable biriyani."
+    },
+    "Dum Biriyani": {
+      "name": "Dum Biriyani",
+      "price": 210,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Slow-cooked dum-style veg biriyani."
+    },
+    "Mixed Veg Biriyani": {
+      "name": "Mixed Veg Biriyani",
+      "price": 220,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Biriyani with a mix of vegetables."
+    },
+    "Mushroom Biriyani": {
+      "name": "Mushroom Biriyani",
+      "price": 180,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Biriyani with fresh mushrooms."
+    },
+    "Mushroom Tikka Biriyani": {
+      "name": "Mushroom Tikka Biriyani",
+      "price": 200,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Tikka-flavored mushroom biriyani."
+    },
+    "Paneer Biriyani": {
+      "name": "Paneer Biriyani",
+      "price": 220,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Biriyani with paneer cubes."
+    },
+    "Paneer Tikka Biriyani": {
+      "name": "Paneer Tikka Biriyani",
+      "price": 240,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Tikka-flavored paneer biriyani."
+    },
+    "Green Spoon Cashew Biriyani": {
+      "name": "Green Spoon Cashew Biriyani",
+      "price": 250,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Biriyani with cashews and veggies."
+    }
+  },
+  "Different Types of Rice Dishes": {
+    "Vegetable Pulav": {
+      "name": "Vegetable Pulav",
+      "price": 140,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Fragrant rice with mixed vegetables."
+    },
+    "Peas Pulav": {
+      "name": "Peas Pulav",
+      "price": 140,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Rice cooked with green peas."
+    },
+    "Paneer Pulav": {
+      "name": "Paneer Pulav",
+      "price": 180,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Pulav with paneer cubes."
+    },
+    "Tomato Rice": {
+      "name": "Tomato Rice",
+      "price": 140,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Rice cooked with tomato gravy."
+    },
+    "Palak Rice": {
+      "name": "Palak Rice",
+      "price": 140,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Rice with spinach puree."
+    },
+    "Daal Khichdi": {
+      "name": "Daal Khichdi",
+      "price": 140,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Rice and lentil mix."
+    },
+    "Palak Khichdi": {
+      "name": "Palak Khichdi",
+      "price": 150,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Khichdi with spinach."
+    },
+    "Ghee Rice": {
+      "name": "Ghee Rice",
+      "price": 130,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Rice cooked with ghee."
+    },
+    "Jeera Rice": {
+      "name": "Jeera Rice",
+      "price": 110,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Rice tempered with cumin seeds."
+    },
+    "Curd Rice": {
+      "name": "Curd Rice",
+      "price": 120,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Rice mixed with curd and spices."
+    },
+    "Steamed Rice": {
+      "name": "Steamed Rice",
+      "price": 90,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Plain steamed rice."
+    }
+  },
+  "Side Orders": {
+    "Masala Papad/Roasted or Fried": {
+      "name": "Masala Papad/Roasted or Fried",
+      "price": 60,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Crisp papad with masala topping."
+    },
+    "Roasted Papad/Fried Papad": {
+      "name": "Roasted Papad/Fried Papad",
+      "price": 30,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Plain roasted or fried papad."
+    },
+    "Peanut's Maharaja": {
+      "name": "Peanut's Maharaja",
+      "price": 110,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Spiced peanuts served as a snack."
+    },
+    "Chillies Masala Papad": {
+      "name": "Chillies Masala Papad",
+      "price": 90,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Papad with spicy chilly masala."
+    },
+    "Mini Crispy Samosa": {
+      "name": "Mini Crispy Samosa",
+      "price": 80,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Small crispy samosas with filling."
+    },
+    "Crispy Veg Cutlet": {
+      "name": "Crispy Veg Cutlet",
+      "price": 90,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Crispy vegetable cutlets."
+    },
+    "French Fries": {
+      "name": "French Fries",
+      "price": 100,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Crispy golden fries."
+    },
+    "Peri Peri French Fries": {
+      "name": "Peri Peri French Fries",
+      "price": 120,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Fries with peri peri seasoning."
+    },
+    "Vegetable Nuggets": {
+      "name": "Vegetable Nuggets",
+      "price": 80,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Crispy vegetable nuggets."
+    },
+    "Green Salad": {
+      "name": "Green Salad",
+      "price": 80,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Fresh green vegetable salad."
+    },
+    "Cucumber Salad": {
+      "name": "Cucumber Salad",
+      "price": 80,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Cool and refreshing cucumber salad."
+    },
+    "Onion Salad": {
+      "name": "Onion Salad",
+      "price": 80,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Simple onion salad with spices."
+    },
+    "Vegetable Raitha": {
+      "name": "Vegetable Raitha",
+      "price": 90,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Yogurt-based veggie raitha."
+    },
+    "Plain Curd": {
+      "name": "Plain Curd",
+      "price": 50,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Fresh plain curd."
+    }
+  },
+  "Hot Beverages": {
+    "Chai": {
+      "name": "Chai",
+      "price": 25,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Traditional Indian tea."
+    },
+    "Coffee": {
+      "name": "Coffee",
+      "price": 30,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Freshly brewed coffee."
+    },
+    "Black Tea/Coffee": {
+      "name": "Black Tea/Coffee",
+      "price": 25,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Plain black tea or coffee."
+    },
+    "Green Tea": {
+      "name": "Green Tea",
+      "price": 30,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Healthy green tea."
+    },
+    "Lemon Tea": {
+      "name": "Lemon Tea",
+      "price": 30,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Tea with a lemon twist."
+    },
+    "Hot Horlicks": {
+      "name": "Hot Horlicks",
+      "price": 40,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Warm Horlicks drink."
+    },
+    "Hot Badam Malt": {
+      "name": "Hot Badam Malt",
+      "price": 40,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Hot almond malt drink."
+    },
+    "Bournvita": {
+      "name": "Bournvita",
+      "price": 40,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Hot Bournvita beverage."
+    },
+    "Kashaya": {
+      "name": "Kashaya",
+      "price": 30,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Traditional herbal drink."
+    },
+    "Hot Milk": {
+      "name": "Hot Milk",
+      "price": 30,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Warm plain milk."
+    }
+  },
+  "Cold Beverages and Fresh Juices": {
+    "Mineral Water": {
+      "name": "Mineral Water",
+      "price": 30,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Bottled mineral water."
+    },
+    "Soft Drinks 250ml": {
+      "name": "Soft Drinks 250ml",
+      "price": 30,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Small bottle of soft drink."
+    },
+    "Soft Drinks 750ml": {
+      "name": "Soft Drinks 750ml",
+      "price": 60,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Large bottle of soft drink."
+    },
+    "Watermelon Juice": {
+      "name": "Watermelon Juice",
+      "price": 75,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Freshly squeezed watermelon juice."
+    },
+    "Musambi Juice": {
+      "name": "Musambi Juice",
+      "price": 75,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Fresh musambi (sweet lime) juice."
+    },
+    "Mango Juice": {
+      "name": "Mango Juice",
+      "price": 80,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Fresh mango juice."
+    },
+    "Pineapple Juice": {
+      "name": "Pineapple Juice",
+      "price": 80,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Fresh pineapple juice."
+    },
+    "Pomegranate Juice": {
+      "name": "Pomegranate Juice",
+      "price": 90,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Fresh pomegranate juice."
+    },
+    "Muskemelon Juice": {
+      "name": "Muskemelon Juice",
+      "price": 80,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Fresh muskmelon juice."
+    },
+    "Orange Juice": {
+      "name": "Orange Juice",
+      "price": 80,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Fresh orange juice."
+    },
+    "Cucumber Juice": {
+      "name": "Cucumber Juice",
+      "price": 70,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Fresh cucumber juice."
+    },
+    "Carrot Juice": {
+      "name": "Carrot Juice",
+      "price": 100,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Fresh carrot juice."
+    },
+    "Grape Juice": {
+      "name": "Grape Juice",
+      "price": 80,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Fresh grape juice."
+    },
+    "Fresh Lemon Juice": {
+      "name": "Fresh Lemon Juice",
+      "price": 45,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Freshly squeezed lemon juice."
+    },
+    "Fresh Lemon Soda": {
+      "name": "Fresh Lemon Soda",
+      "price": 55,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Lemon juice with soda."
+    },
+    "Fresh Lemon Ginger Juice": {
+      "name": "Fresh Lemon Ginger Juice",
+      "price": 65,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Lemon and ginger juice mix."
+    },
+    "Fresh Lemon Ginger Soda": {
+      "name": "Fresh Lemon Ginger Soda",
+      "price": 75,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Lemon, ginger, and soda mix."
+    },
+    "Tropical Hawaii Juice": {
+      "name": "Tropical Hawaii Juice",
+      "price": 100,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "A tropical fruit juice blend."
+    },
+    "Khatta Meeta Orange Soda": {
+      "name": "Khatta Meeta Orange Soda",
+      "price": 70,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Sweet and sour orange soda."
+    },
+    "Khatta Meeta Lemon Soda": {
+      "name": "Khatta Meeta Lemon Soda",
+      "price": 70,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Sweet and sour lemon soda."
+    },
+    "Coke Boat Float": {
+      "name": "Coke Boat Float",
+      "price": 100,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Coke with a float of ice cream."
+    },
+    "Zimzim Cola": {
+      "name": "Zimzim Cola",
+      "price": 100,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Unique cola drink."
+    },
+    "Sweet Lassi / Salted Lassi": {
+      "name": "Sweet Lassi / Salted Lassi",
+      "price": 90,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Yogurt-based sweet or salted drink."
+    },
+    "Mango Lassi": {
+      "name": "Mango Lassi",
+      "price": 110,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Yogurt drink with mango pulp."
+    },
+    "Butter Milk": {
+      "name": "Butter Milk",
+      "price": 40,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Refreshing buttermilk."
+    }
+  },
+  "Milk Shakes": {
+    "Apple Milk Shake": {
+      "name": "Apple Milk Shake",
+      "price": 110,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Creamy shake with apple."
+    },
+    "Mango Milk Shake": {
+      "name": "Mango Milk Shake",
+      "price": 130,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Rich mango milk shake."
+    },
+    "Chikku Milk Shake": {
+      "name": "Chikku Milk Shake",
+      "price": 120,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Shake made with chikku fruit."
+    },
+    "Muskemelon Milk Shake": {
+      "name": "Muskemelon Milk Shake",
+      "price": 120,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Creamy muskmelon shake."
+    },
+    "Pomegranate Milk Shake": {
+      "name": "Pomegranate Milk Shake",
+      "price": 120,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Shake with pomegranate juice."
+    },
+    "Banana Milk Shake": {
+      "name": "Banana Milk Shake",
+      "price": 110,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Smooth banana milk shake."
+    },
+    "Chocolate Milk Shake": {
+      "name": "Chocolate Milk Shake",
+      "price": 140,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Rich chocolate-flavored shake."
+    },
+    "Strawberry Milk Shake": {
+      "name": "Strawberry Milk Shake",
+      "price": 140,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Creamy strawberry shake."
+    },
+    "Kesar Milk Shake": {
+      "name": "Kesar Milk Shake",
+      "price": 140,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Saffron-flavored milk shake."
+    },
+    "Butter Scotch Milk Shake": {
+      "name": "Butter Scotch Milk Shake",
+      "price": 140,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Buttery scotch-flavored shake."
+    },
+    "Vanilla Milk Shake": {
+      "name": "Vanilla Milk Shake",
+      "price": 130,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Classic vanilla milk shake."
+    },
+    "Oreo Milk shake": {
+      "name": "Oreo Milk shake",
+      "price": 150,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Milk shake with Oreo cookies."
+    },
+    "Tropical Milk shake": {
+      "name": "Tropical Milk shake",
+      "price": 160,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Tropical fruit milk shake."
+    },
+    "Banarasi Milk shake": {
+      "name": "Banarasi Milk shake",
+      "price": 160,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Traditional Banarasi-style shake."
+    },
+    "Cold Coffee": {
+      "name": "Cold Coffee",
+      "price": 80,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Chilled coffee drink."
+    },
+    "Cold Coffee With Ice Cream": {
+      "name": "Cold Coffee With Ice Cream",
+      "price": 130,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Cold coffee topped with ice cream."
+    },
+    "Coffee Choco Devine": {
+      "name": "Coffee Choco Devine",
+      "price": 180,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Coffee with chocolate delight."
+    },
+    "Furricus Chai Latte": {
+      "name": "Furricus Chai Latte",
+      "price": 150,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Spiced chai latte."
+    },
+    "Chilled Horlicks": {
+      "name": "Chilled Horlicks",
+      "price": 80,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Cold Horlicks drink."
+    },
+    "Chilled Badam": {
+      "name": "Chilled Badam",
+      "price": 80,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Chilled almond drink."
+    }
+  },
+  "Ice Cream Parlour": {
+    "Green Spoon Sundae": {
+      "name": "Green Spoon Sundae",
+      "price": 160,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "A delightful ice cream sundae."
+    },
+    "Green Spoon Kulphi": {
+      "name": "Green Spoon Kulphi",
+      "price": 180,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Traditional kulfi dessert."
+    },
+    "Green Spoon Dilkhush": {
+      "name": "Green Spoon Dilkhush",
+      "price": 170,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "A happy mix of ice creams."
+    },
+    "Green Spoon Gadbad": {
+      "name": "Green Spoon Gadbad",
+      "price": 170,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "A colorful ice cream medley."
+    },
+    "BRV White Washington": {
+      "name": "BRV White Washington",
+      "price": 160,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "White chocolate ice cream."
+    },
+    "Cool Manhattan": {
+      "name": "Cool Manhattan",
+      "price": 160,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "A cool ice cream treat."
+    },
+    "Oreo Oreo": {
+      "name": "Oreo Oreo",
+      "price": 160,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Ice cream with Oreo pieces."
+    },
+    "Banana Splitz": {
+      "name": "Banana Splitz",
+      "price": 160,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Classic banana split dessert."
+    },
+    "Chocolate Magia": {
+      "name": "Chocolate Magia",
+      "price": 200,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "A magical chocolate ice cream."
+    }
+  },
+  "Kuch Meeta Ho Jaye Desserts": {
+    "Green Spoon Chocolate Pizza (served with Vanilla Ice Cream)": {
+      "name": "Green Spoon Chocolate Pizza (served with Vanilla Ice Cream)",
+      "price": 170,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Chocolate pizza with vanilla ice cream."
+    },
+    "Green Spoon Vanilla Pizza (served with Chocolate Ice Cream)": {
+      "name": "Green Spoon Vanilla Pizza (served with Chocolate Ice Cream)",
+      "price": 160,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Vanilla pizza with chocolate ice cream."
+    },
+    "Fruits Salad": {
+      "name": "Fruits Salad",
+      "price": 90,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Fresh fruit salad."
+    },
+    "Fruits Salad With Ice Cream": {
+      "name": "Fruits Salad With Ice Cream",
+      "price": 130,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Fruit salad topped with ice cream."
+    }
+  },
+  "Dal Corner": {
+    "Dal Fry": {
+      "name": "Dal Fry",
+      "price": 110,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Tempered lentil curry."
+    },
+    "Double Tadka Daal": {
+      "name": "Double Tadka Daal",
+      "price": 130,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Lentils with double tempering."
+    },
+    "Daal Kolhapuri": {
+      "name": "Daal Kolhapuri",
+      "price": 140,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Spicy Kolhapuri-style dal."
+    },
+    "Daal Palak": {
+      "name": "Daal Palak",
+      "price": 140,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Lentils with spinach."
+    },
+    "Green's Dawath Daal": {
+      "name": "Green's Dawath Daal",
+      "price": 170,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Special festive dal preparation."
+    }
+  },
+  "Roties and Kulchas": {
+    "Tandoori Roti": {
+      "name": "Tandoori Roti",
+      "price": 30,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Whole wheat roti from tandoor."
+    },
+    "Butter Roti": {
+      "name": "Butter Roti",
+      "price": 40,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Roti topped with butter."
+    },
+    "Plain Kulcha": {
+      "name": "Plain Kulcha",
+      "price": 40,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Plain tandoori kulcha."
+    },
+    "Butter Kulcha": {
+      "name": "Butter Kulcha",
+      "price": 50,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Buttered tandoori kulcha."
+    },
+    "Paneer Kulcha": {
+      "name": "Paneer Kulcha",
+      "price": 70,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Kulcha stuffed with paneer."
+    },
+    "Cheese Kulcha": {
+      "name": "Cheese Kulcha",
+      "price": 80,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Kulcha stuffed with cheese."
+    },
+    "Cheese Butter Kulcha": {
+      "name": "Cheese Butter Kulcha",
+      "price": 90,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Buttered cheese kulcha."
+    },
+    "Onion Kulcha": {
+      "name": "Onion Kulcha",
+      "price": 50,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Kulcha stuffed with onions."
+    },
+    "Onion Butter Kulcha": {
+      "name": "Onion Butter Kulcha",
+      "price": 60,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Buttered onion kulcha."
+    },
+    "Garlic Kulcha": {
+      "name": "Garlic Kulcha",
+      "price": 50,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Kulcha with garlic flavor."
+    },
+    "Garlic Butter Kulcha": {
+      "name": "Garlic Butter Kulcha",
+      "price": 60,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Buttered garlic kulcha."
+    },
+    "Paneer Cheese Kulcha": {
+      "name": "Paneer Cheese Kulcha",
+      "price": 100,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Kulcha stuffed with paneer and cheese."
+    },
+    "Paneer Cheese Butter Kulcha": {
+      "name": "Paneer Cheese Butter Kulcha",
+      "price": 110,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Buttered kulcha with paneer and cheese."
+    }
+  },
+  "Naans": {
+    "Naan": {
+      "name": "Naan",
+      "price": 30,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Soft tandoori naan."
+    },
+    "Butter Naan": {
+      "name": "Butter Naan",
+      "price": 40,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Naan topped with butter."
+    },
+    "Garlic Naan": {
+      "name": "Garlic Naan",
+      "price": 50,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Naan with garlic flavor."
+    },
+    "Garlic Butter Naan": {
+      "name": "Garlic Butter Naan",
+      "price": 60,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Buttered garlic naan."
+    },
+    "Bullet Naan": {
+      "name": "Bullet Naan",
+      "price": 60,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Spicy bullet naan."
+    },
+    "Bullet Butter Naan": {
+      "name": "Bullet Butter Naan",
+      "price": 80,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Buttered spicy bullet naan."
+    },
+    "Paneer Naan": {
+      "name": "Paneer Naan",
+      "price": 90,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Naan stuffed with paneer."
+    },
+    "Paneer Butter Naan": {
+      "name": "Paneer Butter Naan",
+      "price": 100,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Buttered paneer naan."
+    },
+    "Cheese Naan": {
+      "name": "Cheese Naan",
+      "price": 110,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Naan stuffed with cheese."
+    },
+    "Cheese Butter Naan": {
+      "name": "Cheese Butter Naan",
+      "price": 120,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Buttered cheese naan."
+    }
+  },
+  "Parathas": {
+    "Aloo Paratha": {
+      "name": "Aloo Paratha",
+      "price": 80,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Paratha stuffed with spiced potatoes."
+    },
+    "Aloo Butter Paratha": {
+      "name": "Aloo Butter Paratha",
+      "price": 90,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Buttered paratha with potatoes."
+    },
+    "Paneer Paratha": {
+      "name": "Paneer Paratha",
+      "price": 120,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Paratha stuffed with paneer."
+    },
+    "Godi Paratha": {
+      "name": "Godi Paratha",
+      "price": 40,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Plain wheat paratha."
+    },
+    "Godi Butter Paratha": {
+      "name": "Godi Butter Paratha",
+      "price": 50,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Buttered wheat paratha."
+    },
+    "Lachha Paratha": {
+      "name": "Lachha Paratha",
+      "price": 40,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Layered paratha."
+    },
+    "Lachha Butter Paratha": {
+      "name": "Lachha Butter Paratha",
+      "price": 50,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Buttered layered paratha."
+    },
+    "Methi Paratha": {
+      "name": "Methi Paratha",
+      "price": 70,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Paratha with fenugreek leaves."
+    },
+    "Methi Butter Paratha": {
+      "name": "Methi Butter Paratha",
+      "price": 80,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Buttered fenugreek paratha."
+    }
+  },
+  "South Indian": {
+    "Mushroom Ghee Roast": {
+      "name": "Mushroom Ghee Roast",
+      "price": 240,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Mushrooms roasted in ghee."
+    },
+    "Paneer Ghee Roast": {
+      "name": "Paneer Ghee Roast",
+      "price": 280,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "to be added"
+    }
+  }
+}
