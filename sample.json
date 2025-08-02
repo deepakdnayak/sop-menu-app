@@ -909,13 +909,13 @@
     "Masala Papad/Roasted or Fried": {
       "name": "Masala Papad/Roasted or Fried",
       "price": 60,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/DHLB8m4s/Masala-Papad.jpg",
       "description": "Crisp papad with masala topping."
     },
     "Roasted Papad/Fried Papad": {
       "name": "Roasted Papad/Fried Papad",
       "price": 30,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/tMzrdqDx/Roasted-Papad.jpg",
       "description": "Plain roasted or fried papad."
     },
     "Peanut's Maharaja": {
@@ -927,67 +927,67 @@
     "Chillies Masala Papad": {
       "name": "Chillies Masala Papad",
       "price": 90,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/SCJ0gLW/Chillies-Masala-Papad.jpg",
       "description": "Papad with spicy chilly masala."
     },
     "Mini Crispy Samosa": {
       "name": "Mini Crispy Samosa",
       "price": 80,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/pvZPFrTr/Mini-Crispy-Samosa.jpg",
       "description": "Small crispy samosas with filling."
     },
     "Crispy Veg Cutlet": {
       "name": "Crispy Veg Cutlet",
       "price": 90,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/Dqddwkr/Crispy-Veg-Cutlet.jpg",
       "description": "Crispy vegetable cutlets."
     },
     "French Fries": {
       "name": "French Fries",
       "price": 100,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/ZRgBs1Jr/French-Fries.png",
       "description": "Crispy golden fries."
     },
     "Peri Peri French Fries": {
       "name": "Peri Peri French Fries",
       "price": 120,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/hFySWMdy/Peri-Peri-French-Fries.jpg",
       "description": "Fries with peri peri seasoning."
     },
     "Vegetable Nuggets": {
       "name": "Vegetable Nuggets",
       "price": 80,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/40vkntJ/Vegetable-Nuggets.jpg",
       "description": "Crispy vegetable nuggets."
     },
     "Green Salad": {
       "name": "Green Salad",
       "price": 80,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/5XrwS9xp/Green-Salad.jpg",
       "description": "Fresh green vegetable salad."
     },
     "Cucumber Salad": {
       "name": "Cucumber Salad",
       "price": 80,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/tdPN6Hz/Cucumber-Salad.jpg",
       "description": "Cool and refreshing cucumber salad."
     },
     "Onion Salad": {
       "name": "Onion Salad",
       "price": 80,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/nqyjFLBj/Onion-Salad.jpg",
       "description": "Simple onion salad with spices."
     },
     "Vegetable Raitha": {
       "name": "Vegetable Raitha",
       "price": 90,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/6RxTpckp/Vegetable-Raitha.jpg",
       "description": "Yogurt-based veggie raitha."
     },
     "Plain Curd": {
       "name": "Plain Curd",
       "price": 50,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/pBkVBk6H/Plain-Curd.jpg",
       "description": "Fresh plain curd."
     }
   },
@@ -995,61 +995,61 @@
     "Chai": {
       "name": "Chai",
       "price": 25,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/FqJcmJ00/Chai.jpg",
       "description": "Traditional Indian tea."
     },
     "Coffee": {
       "name": "Coffee",
       "price": 30,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/SDfxn0rM/Coffee.jpg",
       "description": "Freshly brewed coffee."
     },
     "Black Tea/Coffee": {
       "name": "Black Tea/Coffee",
       "price": 25,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/xTWPCrV/Black-Tea.png",
       "description": "Plain black tea or coffee."
     },
     "Green Tea": {
       "name": "Green Tea",
       "price": 30,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/yFXhkdhS/Green-Tea.jpg",
       "description": "Healthy green tea."
     },
     "Lemon Tea": {
       "name": "Lemon Tea",
       "price": 30,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/ZzpJ0TrG/Lemon-Tea.jpg",
       "description": "Tea with a lemon twist."
     },
     "Hot Horlicks": {
       "name": "Hot Horlicks",
       "price": 40,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/6cxjM8gS/Hot-Horlicks.jpg",
       "description": "Warm Horlicks drink."
     },
     "Hot Badam Malt": {
       "name": "Hot Badam Malt",
       "price": 40,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/4RxcD1Qx/Hot-Badam-Malt.jpg",
       "description": "Hot almond malt drink."
     },
     "Bournvita": {
       "name": "Bournvita",
       "price": 40,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/fdFxyxF9/Bournvita.jpg",
       "description": "Hot Bournvita beverage."
     },
     "Kashaya": {
       "name": "Kashaya",
       "price": 30,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/WwTmGZB/Kashaya.jpg",
       "description": "Traditional herbal drink."
     },
     "Hot Milk": {
       "name": "Hot Milk",
       "price": 30,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/5hSrCx3g/Hot-Milk.png",
       "description": "Warm plain milk."
     }
   },
@@ -1057,25 +1057,25 @@
     "Mineral Water": {
       "name": "Mineral Water",
       "price": 30,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/Vs2XHcc/Mineral-Water.jpg",
       "description": "Bottled mineral water."
     },
     "Soft Drinks 250ml": {
       "name": "Soft Drinks 250ml",
       "price": 30,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/DfVsZ6Kf/Soft-Drinks.png",
       "description": "Small bottle of soft drink."
     },
     "Soft Drinks 750ml": {
       "name": "Soft Drinks 750ml",
       "price": 60,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/My3jMFK5/Soft-Drinks.jpg",
       "description": "Large bottle of soft drink."
     },
     "Watermelon Juice": {
       "name": "Watermelon Juice",
       "price": 75,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/6hx5Sdq/Watermelon-Juice.jpg",
       "description": "Freshly squeezed watermelon juice."
     },
     "Musambi Juice": {
@@ -1087,97 +1087,97 @@
     "Mango Juice": {
       "name": "Mango Juice",
       "price": 80,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/21Xd2fyV/Mango-Juice.jpg",
       "description": "Fresh mango juice."
     },
     "Pineapple Juice": {
       "name": "Pineapple Juice",
       "price": 80,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/QjmXCfJB/Pineapple-Juice.jpg",
       "description": "Fresh pineapple juice."
     },
     "Pomegranate Juice": {
       "name": "Pomegranate Juice",
       "price": 90,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/350GNrPQ/Pomegranate-Juice.jpg",
       "description": "Fresh pomegranate juice."
     },
     "Muskemelon Juice": {
       "name": "Muskemelon Juice",
       "price": 80,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/ZRny4GmQ/Muskemelon-Juice.jpg",
       "description": "Fresh muskmelon juice."
     },
     "Orange Juice": {
       "name": "Orange Juice",
       "price": 80,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/KxmrjHDG/Orange-Juice.jpg",
       "description": "Fresh orange juice."
     },
     "Cucumber Juice": {
       "name": "Cucumber Juice",
       "price": 70,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/39wQgzD8/Cucumber-Juice.jpg",
       "description": "Fresh cucumber juice."
     },
     "Carrot Juice": {
       "name": "Carrot Juice",
       "price": 100,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/1fxDjFgJ/Carrot-Juice.jpg",
       "description": "Fresh carrot juice."
     },
     "Grape Juice": {
       "name": "Grape Juice",
       "price": 80,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/43Yqd8Y/Grape-Juice.jpg",
       "description": "Fresh grape juice."
     },
     "Fresh Lemon Juice": {
       "name": "Fresh Lemon Juice",
       "price": 45,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/99dzGQsg/Fresh-Lemon-Juice.jpg",
       "description": "Freshly squeezed lemon juice."
     },
     "Fresh Lemon Soda": {
       "name": "Fresh Lemon Soda",
       "price": 55,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/BVRN9Dw9/Fresh-Lemon-Soda.jpg",
       "description": "Lemon juice with soda."
     },
     "Fresh Lemon Ginger Juice": {
       "name": "Fresh Lemon Ginger Juice",
       "price": 65,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/6RYnLZJs/Fresh-Lemon-Ginger-Juice.jpg",
       "description": "Lemon and ginger juice mix."
     },
     "Fresh Lemon Ginger Soda": {
       "name": "Fresh Lemon Ginger Soda",
       "price": 75,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/7tk1Jp72/Fresh-Lemon-Ginger-Soda.jpg",
       "description": "Lemon, ginger, and soda mix."
     },
     "Tropical Hawaii Juice": {
       "name": "Tropical Hawaii Juice",
       "price": 100,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/twJn3zGN/Tropical-Hawaii-Juice.jpg",
       "description": "A tropical fruit juice blend."
     },
     "Khatta Meeta Orange Soda": {
       "name": "Khatta Meeta Orange Soda",
       "price": 70,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/gMscTbLf/Khatta-Meeta-Orange-Soda.jpg",
       "description": "Sweet and sour orange soda."
     },
     "Khatta Meeta Lemon Soda": {
       "name": "Khatta Meeta Lemon Soda",
       "price": 70,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/TxNwCnYt/Khatta-Meeta-Lemon-Soda.jpg",
       "description": "Sweet and sour lemon soda."
     },
     "Coke Boat Float": {
       "name": "Coke Boat Float",
       "price": 100,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/dYHP436/Coke-Boat-Float.jpg",
       "description": "Coke with a float of ice cream."
     },
     "Zimzim Cola": {
@@ -1195,13 +1195,13 @@
     "Mango Lassi": {
       "name": "Mango Lassi",
       "price": 110,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/cSNSmxgy/Mango-Lassi.jpg",
       "description": "Yogurt drink with mango pulp."
     },
     "Butter Milk": {
       "name": "Butter Milk",
       "price": 40,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/nqZQbNbW/Butter-Milk.jpg",
       "description": "Refreshing buttermilk."
     }
   },
@@ -1209,121 +1209,121 @@
     "Apple Milk Shake": {
       "name": "Apple Milk Shake",
       "price": 110,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/Q3y6XxtK/Apple-Milk-Shake.png",
       "description": "Creamy shake with apple."
     },
     "Mango Milk Shake": {
       "name": "Mango Milk Shake",
       "price": 130,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/GvDHZJ32/Mango-Milk-Shake.jpg",
       "description": "Rich mango milk shake."
     },
     "Chikku Milk Shake": {
       "name": "Chikku Milk Shake",
       "price": 120,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/ymtqH6qP/Chikku-Milk-Shake.jpg",
       "description": "Shake made with chikku fruit."
     },
     "Muskemelon Milk Shake": {
       "name": "Muskemelon Milk Shake",
       "price": 120,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/5XfvKWRM/Muskemelon-Milk-Shake.jpg",
       "description": "Creamy muskmelon shake."
     },
     "Pomegranate Milk Shake": {
       "name": "Pomegranate Milk Shake",
       "price": 120,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/hxbRxdtY/Pomegranate-Milk-Shake.jpg",
       "description": "Shake with pomegranate juice."
     },
     "Banana Milk Shake": {
       "name": "Banana Milk Shake",
       "price": 110,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/B27NY7Q7/Banana-Milk-Shake.jpg",
       "description": "Smooth banana milk shake."
     },
     "Chocolate Milk Shake": {
       "name": "Chocolate Milk Shake",
       "price": 140,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/Vc9H1wfq/Chocolate-Milk-Shake.jpg",
       "description": "Rich chocolate-flavored shake."
     },
     "Strawberry Milk Shake": {
       "name": "Strawberry Milk Shake",
       "price": 140,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/xSnDWVHz/Strawberry-Milk-Shake.jpg",
       "description": "Creamy strawberry shake."
     },
     "Kesar Milk Shake": {
       "name": "Kesar Milk Shake",
       "price": 140,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/m5Yskjfx/Kesar-Milk-Shake.jpg",
       "description": "Saffron-flavored milk shake."
     },
     "Butter Scotch Milk Shake": {
       "name": "Butter Scotch Milk Shake",
       "price": 140,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/MxjkYVvc/Butter-Scotch-Milk-Shake.jpg",
       "description": "Buttery scotch-flavored shake."
     },
     "Vanilla Milk Shake": {
       "name": "Vanilla Milk Shake",
       "price": 130,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/LXP89dWB/Vanilla-Milk-Shake.jpg",
       "description": "Classic vanilla milk shake."
     },
     "Oreo Milk shake": {
       "name": "Oreo Milk shake",
       "price": 150,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/pvmYp2nQ/Oreo-Milk-Shake.jpg",
       "description": "Milk shake with Oreo cookies."
     },
     "Tropical Milk shake": {
       "name": "Tropical Milk shake",
       "price": 160,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/tMZ0S5K5/Tropical-Milk-Shake.jpg",
       "description": "Tropical fruit milk shake."
     },
     "Banarasi Milk shake": {
       "name": "Banarasi Milk shake",
       "price": 160,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/nswDKqF9/Banarasi-Milk-Shake.jpg",
       "description": "Traditional Banarasi-style shake."
     },
     "Cold Coffee": {
       "name": "Cold Coffee",
       "price": 80,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/7JvHg1QS/Cold-Coffee.jpg",
       "description": "Chilled coffee drink."
     },
     "Cold Coffee With Ice Cream": {
       "name": "Cold Coffee With Ice Cream",
       "price": 130,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/ZzMxXwSP/Cold-Coffee-With-Ice-Cream.jpg",
       "description": "Cold coffee topped with ice cream."
     },
     "Coffee Choco Devine": {
       "name": "Coffee Choco Devine",
       "price": 180,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/93WgZkNW/Coffee-Choco-Devine.jpg",
       "description": "Coffee with chocolate delight."
     },
     "Furricus Chai Latte": {
       "name": "Furricus Chai Latte",
       "price": 150,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/nNKFXRS4/Furricus-Chai-Latte.jpg",
       "description": "Spiced chai latte."
     },
     "Chilled Horlicks": {
       "name": "Chilled Horlicks",
       "price": 80,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/5x8hVjwN/Chilled-Horlicks.jpg",
       "description": "Cold Horlicks drink."
     },
     "Chilled Badam": {
       "name": "Chilled Badam",
       "price": 80,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/kVSvR6TS/Chilled-Badam.jpg",
       "description": "Chilled almond drink."
     }
   },
@@ -1331,25 +1331,25 @@
     "Green Spoon Sundae": {
       "name": "Green Spoon Sundae",
       "price": 160,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/prZxR0KY/Green-Spoon-Sundae.jpg",
       "description": "A delightful ice cream sundae."
     },
     "Green Spoon Kulphi": {
       "name": "Green Spoon Kulphi",
       "price": 180,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/VcLVxf1B/Green-Spoon-Kulphi.jpg",
       "description": "Traditional kulfi dessert."
     },
     "Green Spoon Dilkhush": {
       "name": "Green Spoon Dilkhush",
       "price": 170,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/MyNgJqwv/Green-Spoon-Dilkhush.jpg",
       "description": "A happy mix of ice creams."
     },
     "Green Spoon Gadbad": {
       "name": "Green Spoon Gadbad",
       "price": 170,
-      "imgurl": "https://placehold.co/400.jpg",
+      "imgurl": "https://i.ibb.co/M56Gtc32/Green-Spoon-Gadbad.jpg",
       "description": "A colorful ice cream medley."
     },
     "BRV White Washington": {
@@ -1514,259 +1514,305 @@
       "imgurl": "https://i.ibb.co/XZK7QLsg/paneer-cheese-kulcha.jpg",
       "description": "Kulcha stuffed with paneer and cheese."
     },
-    "Paneer Cheese Butter Kulcha": {
-      "name": "Paneer Cheese Butter Kulcha",
-      "price": 110,
-      "imgurl": "https://i.ibb.co/sJKC09wK/paneer-cheese-butter-kulcha.jpg",
-      "description": "Buttered kulcha with paneer and cheese."
-    }
-  },
-  "Naans": {
-    "Naan": {
-      "name": "Naan",
-      "price": 30,
-      "imgurl": "https://i.ibb.co/kgZ4wxDC/naan.jpg",
-      "description": "Soft tandoori naan."
+    "Masala Kulcha": {
+      "name": "Masala Kulcha",
+      "price": 60,
+      "imgurl": "https://i.ibb.co/6s0R3WvQ/masala-kulcha.jpg",
+      "description": "Kulcha stuffed with spiced masala."
+    },
+    "Butter Masala Kulcha": {
+      "name": "Butter Masala Kulcha",
+      "price": 70,
+      "imgurl": "https://i.ibb.co/9T2Y7yX/butter-masala-kulcha.jpg",
+      "description": "Buttered kulcha with spiced masala."
+    },
+    "Aloo Kulcha": {
+      "name": "Aloo Kulcha",
+      "price": 60,
+      "imgurl": "https://i.ibb.co/1q0V9L4/aloo-kulcha.jpg",
+      "description": "Kulcha stuffed with spiced potato."
+    },
+    "Butter Aloo Kulcha": {
+      "name": "Butter Aloo Kulcha",
+      "price": 70,
+      "imgurl": "https://i.ibb.co/5x9k8W0/butter-aloo-kulcha.jpg",
+      "description": "Buttered kulcha with spiced potato."
+    },
+    "Plain Naan": {
+      "name": "Plain Naan",
+      "price": 40,
+      "imgurl": "https://i.ibb.co/7Y6Y3W2/plain-naan.jpg",
+      "description": "Soft plain tandoori naan."
     },
     "Butter Naan": {
       "name": "Butter Naan",
-      "price": 40,
-      "imgurl": "https://i.ibb.co/xKvnJPPG/butter-naan.jpg",
-      "description": "Naan topped with butter."
+      "price": 50,
+      "imgurl": "https://i.ibb.co/4p3Y2W9/butter-naan.jpg",
+      "description": "Soft naan topped with butter."
     },
     "Garlic Naan": {
       "name": "Garlic Naan",
-      "price": 50,
-      "imgurl": "https://i.ibb.co/V0F0TY2Q/garlic-naan.jpg",
+      "price": 60,
+      "imgurl": "https://i.ibb.co/2t3Y8W7/garlic-naan.jpg",
       "description": "Naan with garlic flavor."
     },
-    "Garlic Butter Naan": {
-      "name": "Garlic Butter Naan",
-      "price": 60,
-      "imgurl": "https://i.ibb.co/zWVQ4fpW/butter-gaelic-naan.jpg",
-      "description": "Buttered garlic naan."
-    },
-    "Bullet Naan": {
-      "name": "Bullet Naan",
-      "price": 60,
-      "imgurl": "https://i.ibb.co/d4qftYhS/bullet-naan.jpg",
-      "description": "Spicy bullet naan."
-    },
-    "Bullet Butter Naan": {
-      "name": "Bullet Butter Naan",
-      "price": 80,
-      "imgurl": "https://i.ibb.co/Wm53Tt4/bullet-butter-naan.jpg",
-      "description": "Buttered spicy bullet naan."
-    },
-    "Paneer Naan": {
-      "name": "Paneer Naan",
-      "price": 90,
-      "imgurl": "https://i.ibb.co/39cLD95v/panner-naan.jpg",
-      "description": "Naan stuffed with paneer."
-    },
-    "Paneer Butter Naan": {
-      "name": "Paneer Butter Naan",
-      "price": 100,
-      "imgurl": "https://i.ibb.co/YYr57sK/paneer-butter-naan.jpg",
-      "description": "Buttered paneer naan."
+    "Butter Garlic Naan": {
+      "name": "Butter Garlic Naan",
+      "price": 70,
+      "imgurl": "https://i.ibb.co/5s2Y9W8/butter-garlic-naan.jpg",
+      "description": "Buttered naan with garlic."
     },
     "Cheese Naan": {
       "name": "Cheese Naan",
-      "price": 110,
-      "imgurl": "https://i.ibb.co/ccrd2C6d/cheese-naan.jpg",
+      "price": 80,
+      "imgurl": "https://i.ibb.co/3z2Y8W3/cheese-naan.jpg",
       "description": "Naan stuffed with cheese."
     },
     "Cheese Butter Naan": {
       "name": "Cheese Butter Naan",
-      "price": 120,
-      "imgurl": "https://i.ibb.co/XrLK4Rc5/cheese-butter-naan.jpg",
+      "price": 90,
+      "imgurl": "https://i.ibb.co/6t3Y8W4/cheese-butter-naan.jpg",
       "description": "Buttered cheese naan."
+    },
+    "Paneer Naan": {
+      "name": "Paneer Naan",
+      "price": 80,
+      "imgurl": "https://i.ibb.co/4q3Y8W5/paneer-naan.jpg",
+      "description": "Naan stuffed with paneer."
+    },
+    "Paneer Butter Naan": {
+      "name": "Paneer Butter Naan",
+      "price": 90,
+      "imgurl": "https://i.ibb.co/5y2Y8W6/paneer-butter-naan.jpg",
+      "description": "Buttered naan with paneer."
     }
   },
-  "Parathas": {
-    "Aloo Paratha": {
-      "name": "Aloo Paratha",
-      "price": 80,
-      "imgurl": "https://i.ibb.co/qYM5MSQ1/aloo-paratha.jpg",
-      "description": "Paratha stuffed with spiced potatoes."
+  "North Indian Gravies": {
+    "Kadai Paneer": {
+      "name": "Kadai Paneer",
+      "price": 190,
+      "imgurl": "https://i.ibb.co/7Y6Y3W2/kadai-paneer.jpg",
+      "description": "Paneer cooked in a spicy kadai masala."
     },
-    "Aloo Butter Paratha": {
-      "name": "Aloo Butter Paratha",
-      "price": 90,
-      "imgurl": "https://i.ibb.co/7gN2mZ5/aloo-butter-paratha.jpg",
-      "description": "Buttered paratha stuffed with spiced potatoes."
-    },
-    "Gobi Paratha": {
-      "name": "Gobi Paratha",
-      "price": 80,
-      "imgurl": "https://i.ibb.co/4V3Z7kQ/gobi-paratha.jpg",
-      "description": "Paratha stuffed with spiced cauliflower."
-    },
-    "Gobi Butter Paratha": {
-      "name": "Gobi Butter Paratha",
-      "price": 90,
-      "imgurl": "https://i.ibb.co/3vQ2T9Z/gobi-butter-paratha.jpg",
-      "description": "Buttered paratha stuffed with spiced cauliflower."
-    },
-    "Paneer Paratha": {
-      "name": "Paneer Paratha",
-      "price": 100,
-      "imgurl": "https://i.ibb.co/5W3kJ7N/paneer-paratha.jpg",
-      "description": "Paratha stuffed with spiced paneer."
-    },
-    "Paneer Butter Paratha": {
-      "name": "Paneer Butter Paratha",
-      "price": 110,
-      "imgurl": "https://i.ibb.co/9pY8K2W/paneer-butter-paratha.jpg",
-      "description": "Buttered paratha stuffed with spiced paneer."
-    },
-    "Onion Paratha": {
-      "name": "Onion Paratha",
-      "price": 80,
-      "imgurl": "https://i.ibb.co/6nQ7J4M/onion-paratha.jpg",
-      "description": "Paratha stuffed with spiced onions."
-    },
-    "Onion Butter Paratha": {
-      "name": "Onion Butter Paratha",
-      "price": 90,
-      "imgurl": "https://i.ibb.co/7Y3kL8P/onion-butter-paratha.jpg",
-      "description": "Buttered paratha stuffed with spiced onions."
-    },
-    "Methi Paratha": {
-      "name": "Methi Paratha",
-      "price": 80,
-      "imgurl": "https://i.ibb.co/4pW9T3Q/methi-paratha.jpg",
-      "description": "Paratha with fenugreek leaves."
-    },
-    "Methi Butter Paratha": {
-      "name": "Methi Butter Paratha",
-      "price": 90,
-      "imgurl": "https://i.ibb.co/8X9kM7Z/methi-butter-paratha.jpg",
-      "description": "Buttered paratha with fenugreek leaves."
-    }
-  },
-  "Curries": {
     "Paneer Butter Masala": {
       "name": "Paneer Butter Masala",
       "price": 190,
-      "imgurl": "https://i.ibb.co/5sQ2N7K/paneer-butter-masala.jpg",
-      "description": "Paneer in a rich buttery tomato gravy."
+      "imgurl": "https://i.ibb.co/4p3Y2W9/paneer-butter-masala.jpg",
+      "description": "Paneer in a creamy buttery gravy."
     },
     "Paneer Tikka Masala": {
       "name": "Paneer Tikka Masala",
       "price": 200,
-      "imgurl": "https://i.ibb.co/3C9kL2W/paneer-tikka-masala.jpg",
-      "description": "Grilled paneer in a spicy tikka masala gravy."
+      "imgurl": "https://i.ibb.co/5s2Y9W8/paneer-tikka-masala.jpg",
+      "description": "Grilled paneer in a spicy tikka gravy."
     },
     "Paneer Kolhapuri": {
       "name": "Paneer Kolhapuri",
       "price": 190,
-      "imgurl": "https://i.ibb.co/7vY2T8P/paneer-kolhapuri.jpg",
-      "description": "Paneer in a spicy Kolhapuri-style gravy."
+      "imgurl": "https://i.ibb.co/3z2Y8W3/paneer-kolhapuri.jpg",
+      "description": "Paneer in a spicy Kolhapuri gravy."
     },
-    "Paneer Kadai": {
-      "name": "Paneer Kadai",
+    "Paneer Bhurji": {
+      "name": "Paneer Bhurji",
       "price": 190,
-      "imgurl": "https://i.ibb.co/9pQ3J7N/paneer-kadai.jpg",
-      "description": "Paneer cooked with bell peppers and spices."
+      "imgurl": "https://i.ibb.co/6t3Y8W4/paneer-bhurji.jpg",
+      "description": "Scrambled paneer with spices."
     },
-    "Paneer Palak": {
-      "name": "Paneer Palak",
+    "Palak Paneer": {
+      "name": "Palak Paneer",
       "price": 190,
-      "imgurl": "https://i.ibb.co/5vQ8K3Z/paneer-palak.jpg",
-      "description": "Paneer in a creamy spinach gravy."
+      "imgurl": "https://i.ibb.co/4q3Y8W5/palak-paneer.jpg",
+      "description": "Paneer in a spinach-based gravy."
+    },
+    "Matar Paneer": {
+      "name": "Matar Paneer",
+      "price": 180,
+      "imgurl": "https://i.ibb.co/5y2Y8W6/matar-paneer.jpg",
+      "description": "Paneer with green peas in gravy."
     },
     "Mushroom Masala": {
       "name": "Mushroom Masala",
       "price": 170,
-      "imgurl": "https://i.ibb.co/4W9kM2Q/mushroom-masala.jpg",
-      "description": "Mushrooms in a spiced masala gravy."
+      "imgurl": "https://i.ibb.co/7Y6Y3W2/mushroom-masala.jpg",
+      "description": "Mushrooms in a spiced gravy."
     },
     "Mushroom Kolhapuri": {
       "name": "Mushroom Kolhapuri",
       "price": 170,
-      "imgurl": "https://i.ibb.co/8Y3kL9P/mushroom-kolhapuri.jpg",
-      "description": "Mushrooms in a spicy Kolhapuri-style gravy."
+      "imgurl": "https://i.ibb.co/4p3Y2W9/mushroom-kolhapuri.jpg",
+      "description": "Mushrooms in a spicy Kolhapuri gravy."
     },
-    "Mushroom Kadai": {
-      "name": "Mushroom Kadai",
+    "Kadai Mushroom": {
+      "name": "Kadai Mushroom",
       "price": 170,
-      "imgurl": "https://i.ibb.co/6nQ8J4M/mushroom-kadai.jpg",
-      "description": "Mushrooms cooked with bell peppers and spices."
+      "imgurl": "https://i.ibb.co/5s2Y9W8/kadai-mushroom.jpg",
+      "description": "Mushrooms in a kadai masala."
+    },
+    "Matar Mushroom": {
+      "name": "Matar Mushroom",
+      "price": 170,
+      "imgurl": "https://i.ibb.co/3z2Y8W3/matar-mushroom.jpg",
+      "description": "Mushrooms and peas in a gravy."
+    },
+    "Baby Corn Masala": {
+      "name": "Baby Corn Masala",
+      "price": 170,
+      "imgurl": "https://i.ibb.co/6t3Y8W4/baby-corn-masala.jpg",
+      "description": "Baby corn in a spiced gravy."
     },
     "Veg Kolhapuri": {
       "name": "Veg Kolhapuri",
       "price": 160,
-      "imgurl": "https://i.ibb.co/4pW9T3Q/veg-kolhapuri.jpg",
-      "description": "Mixed vegetables in a spicy Kolhapuri gravy."
+      "imgurl": "https://i.ibb.co/4q3Y8W5/veg-kolhapuri.jpg",
+      "description": "Mixed vegetables in Kolhapuri gravy."
     },
     "Veg Kadai": {
       "name": "Veg Kadai",
       "price": 160,
-      "imgurl": "https://i.ibb.co/9pY8K2W/veg-kadai.jpg",
-      "description": "Mixed vegetables cooked with bell peppers."
+      "imgurl": "https://i.ibb.co/5y2Y8W6/veg-kadai.jpg",
+      "description": "Mixed vegetables in kadai masala."
     },
     "Veg Handi": {
       "name": "Veg Handi",
-      "price": 160,
-      "imgurl": "https://i.ibb.co/5W3kJ7N/veg-handi.jpg",
-      "description": "Mixed vegetables in a creamy handi gravy."
+      "price": 170,
+      "imgurl": "https://i.ibb.co/7Y6Y3W2/veg-handi.jpg",
+      "description": "Mixed vegetables in a handi-style gravy."
+    },
+    "Veg Jalfrezi": {
+      "name": "Veg Jalfrezi",
+      "price": 170,
+      "imgurl": "https://i.ibb.co/4p3Y2W9/veg-jalfrezi.jpg",
+      "description": "Mixed vegetables in a tangy jalfrezi gravy."
     },
     "Green Peas Masala": {
       "name": "Green Peas Masala",
       "price": 150,
-      "imgurl": "https://i.ibb.co/3C9kL2W/green-peas-masala.jpg",
-      "description": "Green peas in a spiced masala gravy."
+      "imgurl": "https://i.ibb.co/5s2Y9W8/green-peas-masala.jpg",
+      "description": "Green peas in a spiced gravy."
     },
-    "Aloo Gobi Masala": {
-      "name": "Aloo Gobi Masala",
+    "Aloo Gobi": {
+      "name": "Aloo Gobi",
       "price": 150,
-      "imgurl": "https://i.ibb.co/7vY2T8P/aloo-gobi-masala.jpg",
-      "description": "Potatoes and cauliflower in a masala gravy."
+      "imgurl": "https://i.ibb.co/3z2Y8W3/aloo-gobi.jpg",
+      "description": "Potato and cauliflower curry."
     },
     "Aloo Matar": {
       "name": "Aloo Matar",
       "price": 150,
-      "imgurl": "https://i.ibb.co/5vQ8K3Z/aloo-matar.jpg",
-      "description": "Potatoes and peas in a spiced gravy."
+      "imgurl": "https://i.ibb.co/6t3Y8W4/aloo-matar.jpg",
+      "description": "Potato and peas in a spiced gravy."
     },
-    "Mix Veg Curry": {
-      "name": "Mix Veg Curry",
+    "Mixed Veg Curry": {
+      "name": "Mixed Veg Curry",
       "price": 160,
-      "imgurl": "https://i.ibb.co/4W9kM2Q/mix-veg-curry.jpg",
-      "description": "Assorted vegetables in a flavorful curry."
+      "imgurl": "https://i.ibb.co/4q3Y8W5/mixed-veg-curry.jpg",
+      "description": "A curry with assorted vegetables."
     }
   },
-  "Combos": {
-    "Mini Meal": {
-      "name": "Mini Meal",
-      "price": 150,
-      "imgurl": "https://placehold.co/400.jpg",
-      "description": "A small meal with rice, dal, and a curry."
+  "South Indian Snacks": {
+    "Idly": {
+      "name": "Idly",
+      "price": 50,
+      "imgurl": "https://i.ibb.co/7Y6Y3W2/idly.jpg",
+      "description": "Steamed rice cakes served with chutney."
     },
-    "South Indian Thali": {
-      "name": "South Indian Thali",
-      "price": 200,
-      "imgurl": "https://i.ibb.co/6nQ7J4M/south-indian-thali.jpg",
-      "description": "A traditional South Indian meal with dosa, idli, and curries."
+    "Vada": {
+      "name": "Vada",
+      "price": 50,
+      "imgurl": "https://i.ibb.co/4p3Y2W9/vada.jpg",
+      "description": "Crispy fried lentil donuts."
     },
-    "North Indian Thali": {
-      "name": "North Indian Thali",
-      "price": 220,
-      "imgurl": "https://i.ibb.co/4pW9T3Q/north-indian-thali.jpg",
-      "description": "A North Indian meal with roti, curry, and rice."
+    "Sambar Idly": {
+      "name": "Sambar Idly",
+      "price": 60,
+      "imgurl": "https://i.ibb.co/5s2Y9W8/sambar-idly.jpg",
+      "description": "Idly served with sambar."
     },
-    "Chinese Combo": {
-      "name": "Chinese Combo",
-      "price": 250,
-      "imgurl": "https://i.ibb.co/9pY8K2W/chinese-combo.jpg",
-      "description": "A combo of noodles, Manchurian, and fried rice."
+    "Sambar Vada": {
+      "name": "Sambar Vada",
+      "price": 60,
+      "imgurl": "https://i.ibb.co/3z2Y8W3/sambar-vada.jpg",
+      "description": "Vada served with sambar."
     },
-    "Green Spoon Special Combo": {
-      "name": "Green Spoon Special Combo",
-      "price": 300,
-      "imgurl": "https://i.ibb.co/5W3kJ7N/green-spoon-special-combo.jpg",
-      "description": "A special combo with biriyani, curry, and dessert."
+    "Rasam Idly": {
+      "name": "Rasam Idly",
+      "price": 60,
+      "imgurl": "https://i.ibb.co/6t3Y8W4/rasam-idly.jpg",
+      "description": "Idly served with spicy rasam."
+    },
+    "Rasam Vada": {
+      "name": "Rasam Vada",
+      "price": 60,
+      "imgurl": "https://i.ibb.co/4q3Y8W5/rasam-vada.jpg",
+      "description": "Vada served with spicy rasam."
+    },
+    "Curd Vada": {
+      "name": "Curd Vada",
+      "price": 70,
+      "imgurl": "https://i.ibb.co/5y2Y8W6/curd-vada.jpg",
+      "description": "Vada soaked in spiced curd."
+    },
+    "Mini Idly With Sambar": {
+      "name": "Mini Idly With Sambar",
+      "price": 70,
+      "imgurl": "https://i.ibb.co/7Y6Y3W2/mini-idly-sambar.jpg",
+      "description": "Small idlies served with sambar."
+    }
+  },
+  "Uttapams": {
+    "Plain Uttapam": {
+      "name": "Plain Uttapam",
+      "price": 60,
+      "imgurl": "https://i.ibb.co/4p3Y2W9/plain-uttapam.jpg",
+      "description": "Thick pancake made with rice batter."
+    },
+    "Onion Uttapam": {
+      "name": "Onion Uttapam",
+      "price": 70,
+      "imgurl": "https://i.ibb.co/5s2Y9W8/onion-uttapam.jpg",
+      "description": "Uttapam topped with onions."
+    },
+    "Tomato Uttapam": {
+      "name": "Tomato Uttapam",
+      "price": 70,
+      "imgurl": "https://i.ibb.co/3z2Y8W3/tomato-uttapam.jpg",
+      "description": "Uttapam topped with tomatoes."
+    },
+    "Onion Tomato Uttapam": {
+      "name": "Onion Tomato Uttapam",
+      "price": 80,
+      "imgurl": "https://i.ibb.co/6t3Y8W4/onion-tomato-uttapam.jpg",
+      "description": "Uttapam with onions and tomatoes."
+    },
+    "Mixed Uttapam": {
+      "name": "Mixed Uttapam",
+      "price": 90,
+      "imgurl": "https://i.ibb.co/4q3Y8W5/mixed-uttapam.jpg",
+      "description": "Uttapam with mixed vegetables."
+    },
+    "Cheese Uttapam": {
+      "name": "Cheese Uttapam",
+      "price": 100,
+      "imgurl": "https://i.ibb.co/5y2Y8W6/cheese-uttapam.jpg",
+      "description": "Uttapam topped with cheese."
+    },
+    "Cheese Onion Uttapam": {
+      "name": "Cheese Onion Uttapam",
+      "price": 110,
+      "imgurl": "https://i.ibb.co/7Y6Y3W2/cheese-onion-uttapam.jpg",
+      "description": "Uttapam with cheese and onions."
+    },
+    "Cheese Tomato Uttapam": {
+      "name": "Cheese Tomato Uttapam",
+      "price": 110,
+      "imgurl": "https://i.ibb.co/4p3Y2W9/cheese-tomato-uttapam.jpg",
+      "description": "Uttapam with cheese and tomatoes."
+    },
+    "Cheese Onion Tomato Uttapam": {
+      "name": "Cheese Onion Tomato Uttapam",
+      "price": 120,
+      "imgurl": "https://i.ibb.co/5s2Y9W8/cheese-onion-tomato-uttapam.jpg",
+      "description": "Uttapam with cheese, onions, and tomatoes."
     }
   }
 }
