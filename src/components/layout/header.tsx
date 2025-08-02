@@ -13,7 +13,6 @@ import { cn } from '@/lib/utils';
 const navLinks = [
   { href: '/', label: 'Home' },
   { href: '/about', label: 'About' },
-  { href: '/contact', label: 'Contact' },
 ];
 
 const NavLink = ({ href, children }: { href: string; children: React.ReactNode }) => {

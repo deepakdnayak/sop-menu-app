@@ -119,61 +119,61 @@
     "Gobi 65": {
       "name": "Gobi 65",
       "price": 140,
-      "imgurl": "https://i.ibb.co/pBtLsxXb/gobi-65.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Crispy cauliflower fritters with a spicy coating."
     },
     "Baby Corn 65": {
       "name": "Baby Corn 65",
       "price": 150,
-      "imgurl": "https://i.ibb.co/YTbCz9Tg/baby-corn-65.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Spicy and crispy baby corn fritters."
     },
     "Mushroom 65": {
       "name": "Mushroom 65",
       "price": 160,
-      "imgurl": "https://i.ibb.co/qYffFnLX/mushroom-65.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Mushrooms fried with a spicy 65 masala."
     },
     "Paneer 65": {
       "name": "Paneer 65",
       "price": 180,
-      "imgurl": "https://i.ibb.co/FLM50DHQ/paneer-65.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Paneer cubes fried with a spicy 65 seasoning."
     },
     "Mixed 65": {
       "name": "Mixed 65",
       "price": 190,
-      "imgurl": "https://i.ibb.co/vxYHnNc2/mixed-65.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "A mix of veggies and paneer in 65 style."
     },
     "Gobi Pepper": {
       "name": "Gobi Pepper",
       "price": 130,
-      "imgurl": "https://i.ibb.co/nNfh2hcL/gobi-pepper.webp",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Cauliflower stir-fried with black pepper."
     },
     "Baby Corn Pepper": {
       "name": "Baby Corn Pepper",
       "price": 140,
-      "imgurl": "https://i.ibb.co/4Z28r72Q/babycorn-salt-pepper.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Baby corn cooked with a peppery twist."
     },
     "Mushroom Pepper": {
       "name": "Mushroom Pepper",
       "price": 150,
-      "imgurl": "https://i.ibb.co/VYbnx6Yj/mushroom-pepper.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Mushrooms sautéed with black pepper."
     },
     "Paneer Pepper": {
       "name": "Paneer Pepper",
       "price": 170,
-      "imgurl": "https://i.ibb.co/8DxcyCHj/Paneer-Pepper.webp",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Paneer cubes with a peppery flavor."
     },
     "Mixed Pepper": {
       "name": "Mixed Pepper",
       "price": 180,
-      "imgurl": "https://i.ibb.co/3Y5nsfXd/mixed-pepper.webp",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "A mix of veggies and paneer with pepper."
     },
     "Gobi Pepper Chilly": {
@@ -239,61 +239,61 @@
     "Gobi Shanghai": {
       "name": "Gobi Shanghai",
       "price": 140,
-      "imgurl": "https://i.ibb.co/3DxLjkW/gobi-shangai.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Cauliflower in a Shanghai-style sauce."
     },
     "Baby Corn Shanghai": {
       "name": "Baby Corn Shanghai",
       "price": 150,
-      "imgurl": "https://i.ibb.co/4gCH2gVx/babycorn-shangai.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Baby corn in a Shanghai-style preparation."
     },
     "Mushroom Shanghai": {
       "name": "Mushroom Shanghai",
       "price": 160,
-      "imgurl": "https://i.ibb.co/Myzh7Rdq/mushroom-shangai.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Mushrooms cooked in a Shanghai sauce."
     },
     "Paneer Shanghai": {
       "name": "Paneer Shanghai",
       "price": 180,
-      "imgurl": "https://i.ibb.co/RTYj3j1N/Paneer-Shanghai.webp",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Paneer in a Shanghai-style sauce."
     },
     "Mixed Shanghai": {
       "name": "Mixed Shanghai",
       "price": 190,
-      "imgurl": "https://i.ibb.co/gMJQb9wn/mixed-shangai.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "A mix of veggies and paneer in Shanghai style."
     },
     "Schezwan Gobi": {
       "name": "Schezwan Gobi",
       "price": 140,
-      "imgurl": "https://i.ibb.co/7dDmW910/Gobi-Schezwan.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Cauliflower in a spicy Schezwan sauce."
     },
     "Schezwan Baby Corn": {
       "name": "Schezwan Baby Corn",
       "price": 150,
-      "imgurl": "https://i.ibb.co/TMPxwXNk/babycorn-Schezwan.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Baby corn in a fiery Schezwan sauce."
     },
     "Schezwan Mushroom": {
       "name": "Schezwan Mushroom",
       "price": 160,
-      "imgurl": "https://i.ibb.co/d428F6cs/mushroom-Schezwan.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Mushrooms in a spicy Schezwan preparation."
     },
     "Schezwan Paneer": {
       "name": "Schezwan Paneer",
       "price": 180,
-      "imgurl": "https://i.ibb.co/fd6xsvgh/schezwan-paneer.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Paneer cubes in a bold Schezwan sauce."
     },
     "Mixed Schezwan": {
       "name": "Mixed Schezwan",
       "price": 190,
-      "imgurl": "https://i.ibb.co/1JPHTTxp/Mixed-Schezwan.webp",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "A mix of veggies and paneer in Schezwan sauce."
     },
     "Gobi Garlic": {
@@ -391,61 +391,61 @@
     "Gobi Manchurian Gravy": {
       "name": "Gobi Manchurian Gravy",
       "price": 150,
-      "imgurl": "https://i.ibb.co/d0vSC6bh/Gobi-Manchurian-Gravy.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Cauliflower in a thick Manchurian gravy."
     },
     "Baby Corn Manchurian Gravy": {
       "name": "Baby Corn Manchurian Gravy",
       "price": 170,
-      "imgurl": "https://i.ibb.co/QFTLVmCH/Baby-Corn-Manchurian-Gravy.webp",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Baby corn in a savory Manchurian gravy."
     },
     "Mushroom Manchurian Gravy": {
       "name": "Mushroom Manchurian Gravy",
       "price": 170,
-      "imgurl": "https://i.ibb.co/gLNJ0Z79/Paneer-Manchurian-Gravy.png",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Mushrooms in a rich Manchurian gravy."
     },
     "Paneer Manchurian Gravy": {
       "name": "Paneer Manchurian Gravy",
       "price": 190,
-      "imgurl": "https://i.ibb.co/gLNJ0Z79/Paneer-Manchurian-Gravy.png",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Paneer in a flavorful Manchurian gravy."
     },
     "Mixed Manchurian Gravy": {
       "name": "Mixed Manchurian Gravy",
       "price": 200,
-      "imgurl": "https://i.ibb.co/twwbwjgT/Mixed-Manchurian-Gravy.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "A mix of veggies and paneer in Manchurian gravy."
     },
     "Gobi Chilly Gravy": {
       "name": "Gobi Chilly Gravy",
       "price": 150,
-      "imgurl": "https://i.ibb.co/KcTdK79K/Gobi-Chilly-Gravy.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Cauliflower in a spicy chilly gravy."
     },
     "Baby Corn Chilly Gravy": {
       "name": "Baby Corn Chilly Gravy",
       "price": 170,
-      "imgurl": "https://i.ibb.co/gLjpcBgF/Baby-Corn-Chilly-Gravy.webp",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Baby corn in a spicy chilly gravy."
     },
     "Mushroom Chilly Gravy": {
       "name": "Mushroom Chilly Gravy",
       "price": 170,
-      "imgurl": "https://i.ibb.co/XmMQJnS/Mushroom-Chilly-Gravy.webp",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Mushrooms in a spicy chilly gravy."
     },
     "Paneer Chilly Gravy": {
       "name": "Paneer Chilly Gravy",
       "price": 190,
-      "imgurl": "https://i.ibb.co/x8Gx66KN/Paneer-Chilly-Gravy.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Paneer in a spicy chilly gravy."
     },
     "Mixed Chilly Gravy": {
       "name": "Mixed Chilly Gravy",
       "price": 200,
-      "imgurl": "https://i.ibb.co/fVtkMBwF/Mixed-Chilly-Gravy.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "A mix of veggies and paneer in chilly gravy."
     }
   },
@@ -453,31 +453,31 @@
     "Paneer Tikka": {
       "name": "Paneer Tikka",
       "price": 210,
-      "imgurl": "https://i.ibb.co/Ng3CfvNn/Paneer-Tikka.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Marinated paneer cubes grilled in a tandoor."
     },
     "Paneer Lasooni Tikka": {
       "name": "Paneer Lasooni Tikka",
       "price": 230,
-      "imgurl": "https://i.ibb.co/PGCWHZGP/Paneer-Lasooni-Tikka.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Paneer tikka with a garlic flavor."
     },
     "Paneer Mastani Tikka": {
       "name": "Paneer Mastani Tikka",
       "price": 230,
-      "imgurl": "https://i.ibb.co/1tvMwLXY/Paneer-Mastani-Tikka.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Rich and creamy paneer tikka."
     },
     "Paneer Hariyali Tikka": {
       "name": "Paneer Hariyali Tikka",
       "price": 230,
-      "imgurl": "https://i.ibb.co/XfCtxbxN/Paneer-Hariyali-Tikka.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Paneer tikka with green herbs."
     },
     "Paneer Kalmi Tikka": {
       "name": "Paneer Kalmi Tikka",
       "price": 240,
-      "imgurl": "https://i.ibb.co/49y9B4S/Paneer-Kalmi-Tikka.webp",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Thick paneer pieces in tandoor."
     },
     "Paneer Sholay Tikka": {
@@ -489,43 +489,43 @@
     "Paneer Malai Tikka": {
       "name": "Paneer Malai Tikka",
       "price": 250,
-      "imgurl": "https://i.ibb.co/ns6LRQq4/Paneer-Malai-Tikka.png",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Creamy paneer tikka marinated in malai."
     },
     "Mushroom Lasooni Tikka": {
       "name": "Mushroom Lasooni Tikka",
       "price": 190,
-      "imgurl": "https://i.ibb.co/Q75ysBDk/Mushroom-Lasooni-Tikka.webp",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Mushrooms with garlic tandoor flavor."
     },
     "Mushroom Mastani Tikka": {
       "name": "Mushroom Mastani Tikka",
       "price": 190,
-      "imgurl": "https://i.ibb.co/B2p25ZwB/Mushroom-Mastani-Tikka.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Creamy mushroom tikka."
     },
     "Mushroom Hariyali Tikka": {
       "name": "Mushroom Hariyali Tikka",
       "price": 190,
-      "imgurl": "https://i.ibb.co/nNhtYzQG/Mushroom-Hariyali-Tikka.webp",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Mushrooms with green herb marinade."
     },
     "Mushroom Kalmi Tikka": {
       "name": "Mushroom Kalmi Tikka",
       "price": 200,
-      "imgurl": "https://i.ibb.co/mVrZxvtZ/Mushroom-Kalmi-Tikka.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Thick mushroom pieces in tandoor."
     },
     "Mushroom Sholay Tikka": {
       "name": "Mushroom Sholay Tikka",
       "price": 210,
-      "imgurl": "https://i.ibb.co/KjthG444/Mushroom-Sholay-Tikka.webp",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Mushrooms with a special spice blend."
     },
     "Mushroom Malai Tikka": {
       "name": "Mushroom Malai Tikka",
       "price": 210,
-      "imgurl": "https://i.ibb.co/tT9hsgqY/Mushroom-Malai-Tikka.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Creamy mushroom tikka in malai."
     }
   },
@@ -533,19 +533,19 @@
     "Vegetable Noodles/Rice": {
       "name": "Vegetable Noodles/Rice",
       "price": 140,
-      "imgurl": "https://i.ibb.co/LdC0TD6q/Vegetable-Noodles.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Noodles or rice with mixed vegetables."
     },
     "Mushroom Noodles/Rice": {
       "name": "Mushroom Noodles/Rice",
       "price": 160,
-      "imgurl": "https://i.ibb.co/mVGMznKh/Mushroom-Noodles.webp",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Noodles or rice with mushrooms."
     },
     "Baby Corn Noodles/Rice": {
       "name": "Baby Corn Noodles/Rice",
       "price": 160,
-      "imgurl": "https://i.ibb.co/Pv7TSMkv/Baby-Corn-Noodles.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Noodles or rice with baby corn."
     },
     "Paneer Noodles/Rice": {
@@ -575,67 +575,67 @@
     "Schezwan Mushroom Noodles/Rice": {
       "name": "Schezwan Mushroom Noodles/Rice",
       "price": 190,
-      "imgurl": "https://i.ibb.co/PsZPwvCc/Schezwan-Mushroom-Rice.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Mushroom noodles or rice with Schezwan sauce."
     },
     "Schezwan Baby Corn Noodles/Rice": {
       "name": "Schezwan Baby Corn Noodles/Rice",
       "price": 190,
-      "imgurl": "https://i.ibb.co/ZpmdNtD5/Schezwan-Baby-Corn-Rice.jpg",
+      "imgurl": "https://placehold.co/400-rice.jpg",
       "description": "Baby corn noodles or rice with Schezwan sauce."
     },
     "Schezwan Paneer Noodles/Rice": {
       "name": "Schezwan Paneer Noodles/Rice",
       "price": 210,
-      "imgurl": "https://i.ibb.co/20LVyzrW/Schezwan-Paneer-Rice.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Paneer noodles or rice with Schezwan sauce."
     },
     "Mixed Schezwan Noodles/Rice": {
       "name": "Mixed Schezwan Noodles/Rice",
       "price": 220,
-      "imgurl": "https://i.ibb.co/7xDgL7Gh/Mixed-Schezwan-Noodles.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Mixed veggies and paneer with Schezwan sauce."
     },
     "Mushroom Tikka Noodles/Rice": {
       "name": "Mushroom Tikka Noodles/Rice",
       "price": 220,
-      "imgurl": "https://i.ibb.co/C59KHXrF/Mushroom-Tikka-Rice.png",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Tikka-flavored mushroom noodles or rice."
     },
     "Paneer Tikka Noodles/Rice": {
       "name": "Paneer Tikka Noodles/Rice",
       "price": 240,
-      "imgurl": "https://i.ibb.co/pvv90tQv/Paneer-Tikka-Noodles.webp",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Tikka-flavored paneer noodles or rice."
     },
     "Mixed Tikka Noodles/Rice": {
       "name": "Mixed Tikka Noodles/Rice",
       "price": 250,
-      "imgurl": "https://i.ibb.co/3YVT2rGC/Mixed-Tikka-Noodles.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Mixed veggies and paneer with tikka flavor."
     },
     "Dragon Noodles/Rice": {
       "name": "Dragon Noodles/Rice",
       "price": 230,
-      "imgurl": "https://i.ibb.co/M56n0c5M/Dragon-Noodles.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Spicy dragon-style noodles or rice."
     },
     "Dragon Paneer Noodles/Rice": {
       "name": "Dragon Paneer Noodles/Rice",
       "price": 260,
-      "imgurl": "https://i.ibb.co/XZn90V9M/Dragon-Paneer-Rice.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Paneer with dragon-style noodles or rice."
     },
     "Dragon Mushroom Noodles/Rice": {
       "name": "Dragon Mushroom Noodles/Rice",
       "price": 240,
-      "imgurl": "https://i.ibb.co/RTXqvznq/Dragon-Mushroom-Noodles.webp",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Mushroom with dragon-style noodles or rice."
     },
     "Mixed Dragon Noodles/Rice": {
       "name": "Mixed Dragon Noodles/Rice",
       "price": 260,
-      "imgurl": "https://i.ibb.co/qMzJQbGN/Mixed-Dragon-Noodles.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Mixed veggies and paneer with dragon style."
     }
   },
@@ -643,55 +643,55 @@
     "Rava Masala Dosa": {
       "name": "Rava Masala Dosa",
       "price": 75,
-      "imgurl": "https://i.ibb.co/XZpkPGgm/rava-masala-dosa.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Crispy rava dosa filled with masala."
     },
     "Rava Plain Dosa": {
       "name": "Rava Plain Dosa",
       "price": 65,
-      "imgurl": "https://i.ibb.co/F4B8Q14k/rava-plain-dosa.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Crispy plain rava dosa."
     },
     "Onion Rava Masala": {
       "name": "Onion Rava Masala",
       "price": 85,
-      "imgurl": "https://i.ibb.co/1Yf9gDkc/onion-rava-dosa.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Rava dosa with onion and masala."
     },
     "Onion Rava Plain": {
       "name": "Onion Rava Plain",
       "price": 75,
-      "imgurl": "https://i.ibb.co/gpBnBbZ/onion-rava-plain.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Plain rava dosa with onions."
     },
     "Cashew Rava Masala": {
       "name": "Cashew Rava Masala",
       "price": 100,
-      "imgurl": "https://i.ibb.co/Kxz1bS0g/cashew-rava-masala.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Rava dosa with cashews and masala."
     },
     "Cashew Rava Plain": {
       "name": "Cashew Rava Plain",
       "price": 90,
-      "imgurl": "https://i.ibb.co/k20ndmDw/cashew-rava-plain.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Plain rava dosa with cashews."
     },
     "Rava Butter Masala": {
       "name": "Rava Butter Masala",
       "price": 85,
-      "imgurl": "https://i.ibb.co/Z6PjL8hR/rava-butter-masala.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Buttered rava dosa with masala."
     },
     "Onion Butter Masala": {
       "name": "Onion Butter Masala",
       "price": 95,
-      "imgurl": "https://i.ibb.co/SXF4dLjg/onion-butter-masala.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Buttered rava dosa with onion and masala."
     },
     "Chi Butter Masala": {
       "name": "Chi Butter Masala",
       "price": 110,
-      "imgurl": "https://i.ibb.co/HL9XKRNf/chi-butter-masala.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Buttered rava dosa with a special masala."
     }
   },
@@ -699,73 +699,73 @@
     "Masala Dosa": {
       "name": "Masala Dosa",
       "price": 60,
-      "imgurl": "https://i.ibb.co/DfgWthtS/masala-dosa.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Crispy dosa filled with potato masala."
     },
     "Plain Dosa": {
       "name": "Plain Dosa",
       "price": 55,
-      "imgurl": "https://i.ibb.co/KxcQ46Z9/plain-dosa.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Simple and crispy plain dosa."
     },
     "Tuppa Dosa": {
       "name": "Tuppa Dosa",
       "price": 55,
-      "imgurl": "https://i.ibb.co/9SMxQFH/tuppa-dosa.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Dosa cooked with ghee."
     },
     "Set Dosa": {
       "name": "Set Dosa",
       "price": 60,
-      "imgurl": "https://i.ibb.co/7xqVhyhv/set-dosa.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Soft and fluffy set dosa."
     },
     "Butter Dosa": {
       "name": "Butter Dosa",
       "price": 60,
-      "imgurl": "https://i.ibb.co/Z1bHQwqv/butter-dosa.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Dosa topped with butter."
     },
     "Butter Masala Dosa": {
       "name": "Butter Masala Dosa",
       "price": 75,
-      "imgurl": "https://i.ibb.co/HfGKN7vy/butter-masala-dosa.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Buttered dosa with potato masala."
     },
     "Mysore Plain Dosa": {
       "name": "Mysore Plain Dosa",
       "price": 65,
-      "imgurl": "https://i.ibb.co/hPnwnVs/mysore-plain-dosa.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Plain dosa with Mysore chutney layer."
     },
     "Mysore Butter Masala Dosa": {
       "name": "Mysore Butter Masala Dosa",
       "price": 85,
-      "imgurl": "https://i.ibb.co/ycZ31GWX/mysore-butter-masala-dosa.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Buttered Mysore dosa with masala."
     },
     "Mysore Butter Plain": {
       "name": "Mysore Butter Plain",
       "price": 75,
-      "imgurl": "https://i.ibb.co/677z9pRx/Mysore-butter-plain.webp",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Buttered Mysore plain dosa."
     },
     "Onion Masala Dosa": {
       "name": "Onion Masala Dosa",
       "price": 75,
-      "imgurl": "https://i.ibb.co/bgspYs1p/onion-masala-dosa.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Dosa with onions and potato masala."
     },
     "Onion Dosa Plain": {
       "name": "Onion Dosa Plain",
       "price": 65,
-      "imgurl": "https://i.ibb.co/gM60scXN/onion-plain-dosa.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Plain dosa topped with onions."
     },
     "Ghee Roast Masala": {
       "name": "Ghee Roast Masala",
       "price": 90,
-      "imgurl": "https://i.ibb.co/SwFMPdVY/ghee-roast-masala-dosa.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Ghee-roasted dosa with masala."
     }
   },
@@ -773,67 +773,67 @@
     "Vegetable Biriyani": {
       "name": "Vegetable Biriyani",
       "price": 160,
-      "imgurl": "https://i.ibb.co/LD8Qzj9z/vegetable-briyani.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Fragrant rice with mixed vegetables."
     },
     "Handy Biriyani": {
       "name": "Handy Biriyani",
       "price": 180,
-      "imgurl": "https://i.ibb.co/8JC1P9Q/handi-briyani.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "A unique style of vegetable biriyani."
     },
     "Hyderabadi Biriyani": {
       "name": "Hyderabadi Biriyani",
       "price": 180,
-      "imgurl": "https://i.ibb.co/Q7cvzhSY/hyderabadi-briyani.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Spicy Hyderabadi-style veg biriyani."
     },
     "Mughlai Biriyani": {
       "name": "Mughlai Biriyani",
       "price": 180,
-      "imgurl": "https://i.ibb.co/v68XyjC9/mughlai-briyani.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Rich Mughlai-style vegetable biriyani."
     },
     "Dum Biriyani": {
       "name": "Dum Biriyani",
       "price": 210,
-      "imgurl": "https://i.ibb.co/ksgQKBMw/dum-briyani.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Slow-cooked dum-style veg biriyani."
     },
     "Mixed Veg Biriyani": {
       "name": "Mixed Veg Biriyani",
       "price": 220,
-      "imgurl": "https://i.ibb.co/5Wq2WykN/mixed-veg-briyani.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Biriyani with a mix of vegetables."
     },
     "Mushroom Biriyani": {
       "name": "Mushroom Biriyani",
       "price": 180,
-      "imgurl": "https://i.ibb.co/1G0YS4pQ/mushroom-briyani.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Biriyani with fresh mushrooms."
     },
     "Mushroom Tikka Biriyani": {
       "name": "Mushroom Tikka Biriyani",
       "price": 200,
-      "imgurl": "https://i.ibb.co/nZfK5WH/mushroom-tikka-briyani.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Tikka-flavored mushroom biriyani."
     },
     "Paneer Biriyani": {
       "name": "Paneer Biriyani",
       "price": 220,
-      "imgurl": "https://i.ibb.co/jks4X4VJ/paneer-briyani.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Biriyani with paneer cubes."
     },
     "Paneer Tikka Biriyani": {
       "name": "Paneer Tikka Biriyani",
       "price": 240,
-      "imgurl": "https://i.ibb.co/Hp1HkRXV/paneer-tikka-briyani.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Tikka-flavored paneer biriyani."
     },
     "Green Spoon Cashew Biriyani": {
       "name": "Green Spoon Cashew Biriyani",
       "price": 250,
-      "imgurl": "https://i.ibb.co/RkPJKsNM/green-spoon-cashew-briyani.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Biriyani with cashews and veggies."
     }
   },
@@ -841,67 +841,67 @@
     "Vegetable Pulav": {
       "name": "Vegetable Pulav",
       "price": 140,
-      "imgurl": "https://i.ibb.co/NgG5jJJ9/vegetable-pulao.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Fragrant rice with mixed vegetables."
     },
     "Peas Pulav": {
       "name": "Peas Pulav",
       "price": 140,
-      "imgurl": "https://i.ibb.co/5XsSQk57/peas-pulav.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Rice cooked with green peas."
     },
     "Paneer Pulav": {
       "name": "Paneer Pulav",
       "price": 180,
-      "imgurl": "https://i.ibb.co/mVQJpWfR/paneer-pulav.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Pulav with paneer cubes."
     },
     "Tomato Rice": {
       "name": "Tomato Rice",
       "price": 140,
-      "imgurl": "https://i.ibb.co/JF0whhyx/tomato-rice.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Rice cooked with tomato gravy."
     },
     "Palak Rice": {
       "name": "Palak Rice",
       "price": 140,
-      "imgurl": "https://i.ibb.co/fdL9GZnw/palak-rice.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Rice with spinach puree."
     },
     "Daal Khichdi": {
       "name": "Daal Khichdi",
       "price": 140,
-      "imgurl": "https://i.ibb.co/KjdXz6Zh/dal-khichdi.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Rice and lentil mix."
     },
     "Palak Khichdi": {
       "name": "Palak Khichdi",
       "price": 150,
-      "imgurl": "https://i.ibb.co/tMG9FWQ5/palak-khichdi.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Khichdi with spinach."
     },
     "Ghee Rice": {
       "name": "Ghee Rice",
       "price": 130,
-      "imgurl": "https://i.ibb.co/8DmwRrTK/ghee-rice.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Rice cooked with ghee."
     },
     "Jeera Rice": {
       "name": "Jeera Rice",
       "price": 110,
-      "imgurl": "https://i.ibb.co/ZzGHc6g7/jeera-rice.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Rice tempered with cumin seeds."
     },
     "Curd Rice": {
       "name": "Curd Rice",
       "price": 120,
-      "imgurl": "https://i.ibb.co/fzwCk7jc/curd-rice.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Rice mixed with curd and spices."
     },
     "Steamed Rice": {
       "name": "Steamed Rice",
       "price": 90,
-      "imgurl": "https://i.ibb.co/fzjtn8xZ/steamed-rice.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Plain steamed rice."
     }
   },
@@ -1387,25 +1387,25 @@
     "Green Spoon Chocolate Pizza (served with Vanilla Ice Cream)": {
       "name": "Green Spoon Chocolate Pizza (served with Vanilla Ice Cream)",
       "price": 170,
-      "imgurl": "https://i.ibb.co/QFBSNX4w/green-spoon-chocolate-pizza-served-with-vanilla.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Chocolate pizza with vanilla ice cream."
     },
     "Green Spoon Vanilla Pizza (served with Chocolate Ice Cream)": {
       "name": "Green Spoon Vanilla Pizza (served with Chocolate Ice Cream)",
       "price": 160,
-      "imgurl": "https://i.ibb.co/4wJ9tH9s/green-spoon-vanilla-pizza-served-with-chocolate-icecream.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Vanilla pizza with chocolate ice cream."
     },
     "Fruits Salad": {
       "name": "Fruits Salad",
       "price": 90,
-      "imgurl": "https://i.ibb.co/p6Nt8MQR/fruit-salad.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Fresh fruit salad."
     },
     "Fruits Salad With Ice Cream": {
       "name": "Fruits Salad With Ice Cream",
       "price": 130,
-      "imgurl": "https://i.ibb.co/tyfSYtT/fruit-salad-with-icecream.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Fruit salad topped with ice cream."
     }
   },
@@ -1413,31 +1413,31 @@
     "Dal Fry": {
       "name": "Dal Fry",
       "price": 110,
-      "imgurl": "https://i.ibb.co/KjxpScCG/dal-fry.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Tempered lentil curry."
     },
     "Double Tadka Daal": {
       "name": "Double Tadka Daal",
       "price": 130,
-      "imgurl": "https://i.ibb.co/Lz2hyrCq/dal-double-tadka.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Lentils with double tempering."
     },
     "Daal Kolhapuri": {
       "name": "Daal Kolhapuri",
       "price": 140,
-      "imgurl": "https://i.ibb.co/fdZ8p9Dk/dal-kolhapuri.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Spicy Kolhapuri-style dal."
     },
     "Daal Palak": {
       "name": "Daal Palak",
       "price": 140,
-      "imgurl": "https://i.ibb.co/q3zgZwMN/dal-palak.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Lentils with spinach."
     },
     "Green's Dawath Daal": {
       "name": "Green's Dawath Daal",
       "price": 170,
-      "imgurl": "https://i.ibb.co/ynYY8P94/green-spoon-dawath-dal.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Special festive dal preparation."
     }
   },
@@ -1445,79 +1445,79 @@
     "Tandoori Roti": {
       "name": "Tandoori Roti",
       "price": 30,
-      "imgurl": "https://i.ibb.co/zhY46mFc/tandoori-roti.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Whole wheat roti from tandoor."
     },
     "Butter Roti": {
       "name": "Butter Roti",
       "price": 40,
-      "imgurl": "https://i.ibb.co/5x4jqhTZ/butter-roti.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Roti topped with butter."
     },
     "Plain Kulcha": {
       "name": "Plain Kulcha",
       "price": 40,
-      "imgurl": "https://i.ibb.co/Mx1mCFrz/plain-kulcha.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Plain tandoori kulcha."
     },
     "Butter Kulcha": {
       "name": "Butter Kulcha",
       "price": 50,
-      "imgurl": "https://i.ibb.co/qt8gmY5/butter-kulcha.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Buttered tandoori kulcha."
     },
     "Paneer Kulcha": {
       "name": "Paneer Kulcha",
       "price": 70,
-      "imgurl": "https://i.ibb.co/RGcphtyY/paneer-kulcha.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Kulcha stuffed with paneer."
     },
     "Cheese Kulcha": {
       "name": "Cheese Kulcha",
       "price": 80,
-      "imgurl": "https://i.ibb.co/99VnBBG5/cheese-kulcha.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Kulcha stuffed with cheese."
     },
     "Cheese Butter Kulcha": {
       "name": "Cheese Butter Kulcha",
       "price": 90,
-      "imgurl": "https://i.ibb.co/BHnhfGDG/cheese-butter-kulcha.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Buttered cheese kulcha."
     },
     "Onion Kulcha": {
       "name": "Onion Kulcha",
       "price": 50,
-      "imgurl": "https://i.ibb.co/j9H9303h/onion-kulcha.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Kulcha stuffed with onions."
     },
     "Onion Butter Kulcha": {
       "name": "Onion Butter Kulcha",
       "price": 60,
-      "imgurl": "https://i.ibb.co/fVV1m0vm/onion-butter-kulcha.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Buttered onion kulcha."
     },
     "Garlic Kulcha": {
       "name": "Garlic Kulcha",
       "price": 50,
-      "imgurl": "https://i.ibb.co/ymp5QTJF/garlic-kulcha.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Kulcha with garlic flavor."
     },
     "Garlic Butter Kulcha": {
       "name": "Garlic Butter Kulcha",
       "price": 60,
-      "imgurl": "https://i.ibb.co/v4LK1m7Y/garlic-butter-kulcha.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Buttered garlic kulcha."
     },
     "Paneer Cheese Kulcha": {
       "name": "Paneer Cheese Kulcha",
       "price": 100,
-      "imgurl": "https://i.ibb.co/XZK7QLsg/paneer-cheese-kulcha.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Kulcha stuffed with paneer and cheese."
     },
     "Paneer Cheese Butter Kulcha": {
       "name": "Paneer Cheese Butter Kulcha",
       "price": 110,
-      "imgurl": "https://i.ibb.co/sJKC09wK/paneer-cheese-butter-kulcha.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Buttered kulcha with paneer and cheese."
     }
   },
@@ -1525,61 +1525,61 @@
     "Naan": {
       "name": "Naan",
       "price": 30,
-      "imgurl": "https://i.ibb.co/kgZ4wxDC/naan.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Soft tandoori naan."
     },
     "Butter Naan": {
       "name": "Butter Naan",
       "price": 40,
-      "imgurl": "https://i.ibb.co/xKvnJPPG/butter-naan.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Naan topped with butter."
     },
     "Garlic Naan": {
       "name": "Garlic Naan",
       "price": 50,
-      "imgurl": "https://i.ibb.co/V0F0TY2Q/garlic-naan.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Naan with garlic flavor."
     },
     "Garlic Butter Naan": {
       "name": "Garlic Butter Naan",
       "price": 60,
-      "imgurl": "https://i.ibb.co/zWVQ4fpW/butter-gaelic-naan.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Buttered garlic naan."
     },
     "Bullet Naan": {
       "name": "Bullet Naan",
       "price": 60,
-      "imgurl": "https://i.ibb.co/d4qftYhS/bullet-naan.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Spicy bullet naan."
     },
     "Bullet Butter Naan": {
       "name": "Bullet Butter Naan",
       "price": 80,
-      "imgurl": "https://i.ibb.co/Wm53Tt4/bullet-butter-naan.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Buttered spicy bullet naan."
     },
     "Paneer Naan": {
       "name": "Paneer Naan",
       "price": 90,
-      "imgurl": "https://i.ibb.co/39cLD95v/panner-naan.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Naan stuffed with paneer."
     },
     "Paneer Butter Naan": {
       "name": "Paneer Butter Naan",
       "price": 100,
-      "imgurl": "https://i.ibb.co/YYr57sK/paneer-butter-naan.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Buttered paneer naan."
     },
     "Cheese Naan": {
       "name": "Cheese Naan",
       "price": 110,
-      "imgurl": "https://i.ibb.co/ccrd2C6d/cheese-naan.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Naan stuffed with cheese."
     },
     "Cheese Butter Naan": {
       "name": "Cheese Butter Naan",
       "price": 120,
-      "imgurl": "https://i.ibb.co/XrLK4Rc5/cheese-butter-naan.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Buttered cheese naan."
     }
   },
@@ -1587,186 +1587,106 @@
     "Aloo Paratha": {
       "name": "Aloo Paratha",
       "price": 80,
-      "imgurl": "https://i.ibb.co/qYM5MSQ1/aloo-paratha.jpg",
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Paratha stuffed with spiced potatoes."
     },
     "Aloo Butter Paratha": {
       "name": "Aloo Butter Paratha",
       "price": 90,
-      "imgurl": "https://i.ibb.co/7gN2mZ5/aloo-butter-paratha.jpg",
-      "description": "Buttered paratha stuffed with spiced potatoes."
-    },
-    "Gobi Paratha": {
-      "name": "Gobi Paratha",
-      "price": 80,
-      "imgurl": "https://i.ibb.co/4V3Z7kQ/gobi-paratha.jpg",
-      "description": "Paratha stuffed with spiced cauliflower."
-    },
-    "Gobi Butter Paratha": {
-      "name": "Gobi Butter Paratha",
-      "price": 90,
-      "imgurl": "https://i.ibb.co/3vQ2T9Z/gobi-butter-paratha.jpg",
-      "description": "Buttered paratha stuffed with spiced cauliflower."
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Buttered paratha with potatoes."
     },
     "Paneer Paratha": {
       "name": "Paneer Paratha",
-      "price": 100,
-      "imgurl": "https://i.ibb.co/5W3kJ7N/paneer-paratha.jpg",
-      "description": "Paratha stuffed with spiced paneer."
+      "price": 120,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Paratha stuffed with paneer."
     },
-    "Paneer Butter Paratha": {
-      "name": "Paneer Butter Paratha",
-      "price": 110,
-      "imgurl": "https://i.ibb.co/9pY8K2W/paneer-butter-paratha.jpg",
-      "description": "Buttered paratha stuffed with spiced paneer."
+    "Godi Paratha": {
+      "name": "Godi Paratha",
+      "price": 40,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Plain wheat paratha."
     },
-    "Onion Paratha": {
-      "name": "Onion Paratha",
-      "price": 80,
-      "imgurl": "https://i.ibb.co/6nQ7J4M/onion-paratha.jpg",
-      "description": "Paratha stuffed with spiced onions."
+    "Godi Butter Paratha": {
+      "name": "Godi Butter Paratha",
+      "price": 50,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Buttered wheat paratha."
     },
-    "Onion Butter Paratha": {
-      "name": "Onion Butter Paratha",
-      "price": 90,
-      "imgurl": "https://i.ibb.co/7Y3kL8P/onion-butter-paratha.jpg",
-      "description": "Buttered paratha stuffed with spiced onions."
+    "Lachha Paratha": {
+      "name": "Lachha Paratha",
+      "price": 40,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Layered paratha."
+    },
+    "Lachha Butter Paratha": {
+      "name": "Lachha Butter Paratha",
+      "price": 50,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Buttered layered paratha."
     },
     "Methi Paratha": {
       "name": "Methi Paratha",
-      "price": 80,
-      "imgurl": "https://i.ibb.co/4pW9T3Q/methi-paratha.jpg",
+      "price": 70,
+      "imgurl": "https://placehold.co/400.jpg",
       "description": "Paratha with fenugreek leaves."
     },
     "Methi Butter Paratha": {
       "name": "Methi Butter Paratha",
-      "price": 90,
-      "imgurl": "https://i.ibb.co/8X9kM7Z/methi-butter-paratha.jpg",
-      "description": "Buttered paratha with fenugreek leaves."
-    }
-  },
-  "Curries": {
-    "Paneer Butter Masala": {
-      "name": "Paneer Butter Masala",
-      "price": 190,
-      "imgurl": "https://i.ibb.co/5sQ2N7K/paneer-butter-masala.jpg",
-      "description": "Paneer in a rich buttery tomato gravy."
-    },
-    "Paneer Tikka Masala": {
-      "name": "Paneer Tikka Masala",
-      "price": 200,
-      "imgurl": "https://i.ibb.co/3C9kL2W/paneer-tikka-masala.jpg",
-      "description": "Grilled paneer in a spicy tikka masala gravy."
-    },
-    "Paneer Kolhapuri": {
-      "name": "Paneer Kolhapuri",
-      "price": 190,
-      "imgurl": "https://i.ibb.co/7vY2T8P/paneer-kolhapuri.jpg",
-      "description": "Paneer in a spicy Kolhapuri-style gravy."
-    },
-    "Paneer Kadai": {
-      "name": "Paneer Kadai",
-      "price": 190,
-      "imgurl": "https://i.ibb.co/9pQ3J7N/paneer-kadai.jpg",
-      "description": "Paneer cooked with bell peppers and spices."
-    },
-    "Paneer Palak": {
-      "name": "Paneer Palak",
-      "price": 190,
-      "imgurl": "https://i.ibb.co/5vQ8K3Z/paneer-palak.jpg",
-      "description": "Paneer in a creamy spinach gravy."
-    },
-    "Mushroom Masala": {
-      "name": "Mushroom Masala",
-      "price": 170,
-      "imgurl": "https://i.ibb.co/4W9kM2Q/mushroom-masala.jpg",
-      "description": "Mushrooms in a spiced masala gravy."
-    },
-    "Mushroom Kolhapuri": {
-      "name": "Mushroom Kolhapuri",
-      "price": 170,
-      "imgurl": "https://i.ibb.co/8Y3kL9P/mushroom-kolhapuri.jpg",
-      "description": "Mushrooms in a spicy Kolhapuri-style gravy."
-    },
-    "Mushroom Kadai": {
-      "name": "Mushroom Kadai",
-      "price": 170,
-      "imgurl": "https://i.ibb.co/6nQ8J4M/mushroom-kadai.jpg",
-      "description": "Mushrooms cooked with bell peppers and spices."
-    },
-    "Veg Kolhapuri": {
-      "name": "Veg Kolhapuri",
-      "price": 160,
-      "imgurl": "https://i.ibb.co/4pW9T3Q/veg-kolhapuri.jpg",
-      "description": "Mixed vegetables in a spicy Kolhapuri gravy."
-    },
-    "Veg Kadai": {
-      "name": "Veg Kadai",
-      "price": 160,
-      "imgurl": "https://i.ibb.co/9pY8K2W/veg-kadai.jpg",
-      "description": "Mixed vegetables cooked with bell peppers."
-    },
-    "Veg Handi": {
-      "name": "Veg Handi",
-      "price": 160,
-      "imgurl": "https://i.ibb.co/5W3kJ7N/veg-handi.jpg",
-      "description": "Mixed vegetables in a creamy handi gravy."
-    },
-    "Green Peas Masala": {
-      "name": "Green Peas Masala",
-      "price": 150,
-      "imgurl": "https://i.ibb.co/3C9kL2W/green-peas-masala.jpg",
-      "description": "Green peas in a spiced masala gravy."
-    },
-    "Aloo Gobi Masala": {
-      "name": "Aloo Gobi Masala",
-      "price": 150,
-      "imgurl": "https://i.ibb.co/7vY2T8P/aloo-gobi-masala.jpg",
-      "description": "Potatoes and cauliflower in a masala gravy."
-    },
-    "Aloo Matar": {
-      "name": "Aloo Matar",
-      "price": 150,
-      "imgurl": "https://i.ibb.co/5vQ8K3Z/aloo-matar.jpg",
-      "description": "Potatoes and peas in a spiced gravy."
-    },
-    "Mix Veg Curry": {
-      "name": "Mix Veg Curry",
-      "price": 160,
-      "imgurl": "https://i.ibb.co/4W9kM2Q/mix-veg-curry.jpg",
-      "description": "Assorted vegetables in a flavorful curry."
-    }
-  },
-  "Combos": {
-    "Mini Meal": {
-      "name": "Mini Meal",
-      "price": 150,
+      "price": 80,
       "imgurl": "https://placehold.co/400.jpg",
-      "description": "A small meal with rice, dal, and a curry."
+      "description": "Buttered fenugreek paratha."
+    }
+  },
+  "South Indian": {
+    "Mushroom Ghee Roast": {
+      "name": "Mushroom Ghee Roast",
+      "price": 240,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Mushrooms roasted in ghee."
     },
-    "South Indian Thali": {
-      "name": "South Indian Thali",
-      "price": 200,
-      "imgurl": "https://i.ibb.co/6nQ7J4M/south-indian-thali.jpg",
-      "description": "A traditional South Indian meal with dosa, idli, and curries."
+    "Paneer Ghee Roast": {
+      "name": "Paneer Ghee Roast",
+      "price": 280,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Paneer roasted in ghee."
     },
-    "North Indian Thali": {
-      "name": "North Indian Thali",
-      "price": 220,
-      "imgurl": "https://i.ibb.co/4pW9T3Q/north-indian-thali.jpg",
-      "description": "A North Indian meal with roti, curry, and rice."
+    "Gobi Urwal": {
+      "name": "Gobi Urwal",
+      "price": 240,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Cauliflower prepared in Urwal style."
     },
-    "Chinese Combo": {
-      "name": "Chinese Combo",
-      "price": 250,
-      "imgurl": "https://i.ibb.co/9pY8K2W/chinese-combo.jpg",
-      "description": "A combo of noodles, Manchurian, and fried rice."
+    "Baby Corn Urwal": {
+      "name": "Baby Corn Urwal",
+      "price": 240,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Baby corn cooked in Urwal style."
     },
-    "Green Spoon Special Combo": {
-      "name": "Green Spoon Special Combo",
-      "price": 300,
-      "imgurl": "https://i.ibb.co/5W3kJ7N/green-spoon-special-combo.jpg",
-      "description": "A special combo with biriyani, curry, and dessert."
+    "Mushroom Urwal": {
+      "name": "Mushroom Urwal",
+      "price": 240,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Mushrooms prepared in Urwal style."
+    },
+    "Paneer Urwal": {
+      "name": "Paneer Urwal",
+      "price": 280,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Paneer cooked in Urwal style."
+    },
+    "Baby Corn Rava Fry": {
+      "name": "Baby Corn Rava Fry",
+      "price": 130,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Baby corn fried with rava."
+    },
+    "Green Spoon Special Thali": {
+      "name": "Green Spoon Special Thali",
+      "price": 80,
+      "imgurl": "https://placehold.co/400.jpg",
+      "description": "Special thali with limited servings."
     }
   }
 }

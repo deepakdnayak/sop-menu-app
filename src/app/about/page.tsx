@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { Clock, UtensilsCrossed, Zap } from 'lucide-react';
+import { Clock, Mail, MapPin, Phone } from 'lucide-react';
+
 
 export default function AboutPage() {
   return (
@@ -13,7 +14,7 @@ export default function AboutPage() {
       </div>
 
       <div className="relative aspect-[16/9] w-full rounded-lg overflow-hidden shadow-lg">
-          <Image src="https://placehold.co/1200x675" alt="Green Spoon Restaurant" fill className="object-cover" data-ai-hint="restaurant interior" />
+          <Image src="https://i.ibb.co/ZzM13vMn/green-spoon.jpg" alt="Green Spoon Restaurant" fill className="object-cover" data-ai-hint="restaurant interior" />
       </div>
 
       <div className="grid md:grid-cols-2 gap-8 text-lg">
@@ -35,6 +36,41 @@ export default function AboutPage() {
       </div>
 
       <Card>
+        <div className="space-y-6 p-5">
+          <h2 className="text-2xl font-bold font-headline text-accent">Get in Touch</h2>
+          <div className="space-y-4">
+            <div className="flex items-start gap-4">
+              <div className="mt-1">
+                <MapPin className="h-6 w-6 text-primary" />
+              </div>
+              <div>
+                <h3 className="font-semibold">Address</h3>
+                <p className="text-muted-foreground">opposite to Rosa Mystica school, near Polali dwara, Kaikamba, Mangaluru, Karnataka 574151</p>
+              </div>
+            </div>
+            <div className="flex items-start gap-4">
+                <div className="mt-1">
+                  <Phone className="h-6 w-6 text-primary" />
+                </div>
+              <div>
+                <h3 className="font-semibold">Phone</h3>
+                <p className="text-muted-foreground">0824 681 6604</p>
+              </div>
+            </div>
+            <div className="flex items-start gap-4">
+                 <div className="mt-1">
+                  <Mail className="h-6 w-6 text-primary" />
+                 </div>
+              <div>
+                <h3 className="font-semibold">Email</h3>
+                <p className="text-muted-foreground">contact@greenspoon.com</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </Card>
+
+      <Card>
         <CardHeader>
           <CardTitle className="text-2xl font-headline flex items-center gap-2 text-accent">
             <Clock className="h-6 w-6" />
@@ -49,6 +85,10 @@ export default function AboutPage() {
              <div className="flex justify-between">
               <span>Dinner:</span>
               <span className="font-semibold">5:30 PM to 10:30 PM</span>
+            </div>
+            <div className="flex justify-between">
+              <span>Holiday:</span>
+              <span className="font-semibold">Wednesday</span>
             </div>
         </CardContent>
       </Card>
