@@ -30,7 +30,7 @@ export default function DishCard({ dish, className }: DishCardProps) {
           <p className="text-muted-foreground text-sm mt-1">{dish.category}</p>
         </CardContent>
         <CardFooter className="p-4 pt-0 flex justify-between items-center">
-          <p className="text-2xl font-bold text-primary">₹{dish.price}</p>
+          <p className="text-2xl font-bold text-primary"><span className="font-sans">&#8377;</span>{dish.price}</p>
           <Button variant="ghost" size="sm">
             View Details
           </Button>

@@ -44,11 +44,11 @@ export default async function DishPage({ params }: { params: { id: string } }) {
               <p className="text-lg text-muted-foreground">{dish.description}</p>
               <Separator />
               <div className="flex items-baseline gap-4">
-                 <p className="text-4xl font-bold text-primary">&#8377;{dish.price}</p>
+                 <p className="text-4xl font-bold text-primary"><span className="font-sans">&#8377;</span>{dish.price}</p>
               </div>
             </CardContent>
             <div className="p-6 pt-0">
-               <Button size="lg" className="w-full text-lg">Add to Order</Button>
+               {/* <Button size="lg" className="w-full text-lg">Add to Order</Button> */}
             </div>
           </div>
         </div>
