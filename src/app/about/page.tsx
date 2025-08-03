@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { Clock, Mail, MapPin, Phone } from 'lucide-react';
+import { Clock, Mail, MapPin, Phone, MapPinned } from 'lucide-react';
 
 
 export default function AboutPage() {
@@ -14,7 +14,7 @@ export default function AboutPage() {
       </div>
 
       <div className="relative aspect-[16/9] w-full rounded-lg overflow-hidden shadow-lg">
-          <Image src="https://i.ibb.co/ZzM13vMn/green-spoon.jpg" alt="Green Spoon Restaurant" fill className="object-cover" data-ai-hint="restaurant interior" />
+          <Image src="https://i.ibb.co/DfHHCXDp/Green-Spoon-Restaurant.png" alt="Green Spoon Restaurant" fill className="object-cover" data-ai-hint="restaurant interior" />
       </div>
 
       <div className="grid md:grid-cols-2 gap-8 text-lg">
@@ -45,7 +45,10 @@ export default function AboutPage() {
               </div>
               <div>
                 <h3 className="font-semibold">Address</h3>
-                <p className="text-muted-foreground">opposite to Rosa Mystica school, near Polali dwara, Kaikamba, Mangaluru, Karnataka 574151</p>
+                <div className="flex justify-between items-center">
+                  <p className="text-muted-foreground">opposite to Rosa Mystica school, near Polali dwara, Kaikamba, Mangaluru, Karnataka 574151</p>
+                  <a href="https://maps.app.goo.gl/1cB2wFP1AZBgo8Dw8" target="_blank" ><button className='text-white bg-accent p-2 rounded ms-5 animate-bounce'>Open In Map</button></a>
+                </div>
               </div>
             </div>
             <div className="flex items-start gap-4">
@@ -79,12 +82,12 @@ export default function AboutPage() {
         </CardHeader>
         <CardContent className="space-y-2 text-lg">
             <div className="flex justify-between">
-              <span>Lunch:</span>
-              <span className="font-semibold">11:30 AM to 3:30 PM</span>
+              <span>Time:</span>
+              <span className="font-semibold">11:30 AM to 10:30 PM</span>
             </div>
              <div className="flex justify-between">
-              <span>Dinner:</span>
-              <span className="font-semibold">5:30 PM to 10:30 PM</span>
+              <span>Days:</span>
+              <span className="font-semibold">6 Days a week</span>
             </div>
             <div className="flex justify-between">
               <span>Holiday:</span>
