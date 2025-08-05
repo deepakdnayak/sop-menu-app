@@ -403,7 +403,7 @@
     "Mushroom Manchurian Gravy": {
       "name": "Mushroom Manchurian Gravy",
       "price": 170,
-      "imgurl": "https://i.ibb.co/gLNJ0Z79/Paneer-Manchurian-Gravy.png",
+      "imgurl": "https://i.ibb.co/dJ75vpdL/Mushroom-Manchurian-gravy.jpg",
       "description": "Mushrooms in a rich Manchurian gravy."
     },
     "Paneer Manchurian Gravy": {
@@ -688,8 +688,8 @@
       "imgurl": "https://i.ibb.co/SXF4dLjg/onion-butter-masala.jpg",
       "description": "Buttered rava dosa with onion and masala."
     },
-    "Chi Butter Masala": {
-      "name": "Chi Butter Masala",
+    "Cheese Butter Masala": {
+      "name": "Chieese Butter Masala",
       "price": 110,
       "imgurl": "https://i.ibb.co/HL9XKRNf/chi-butter-masala.jpg",
       "description": "Buttered rava dosa with a special masala."
@@ -1787,7 +1787,7 @@
     "Cheese Onion Uttapam": {
       "name": "Cheese Onion Uttapam",
       "price": 110,
-      "imgurl": "https://i.ibb.co/35nP3Z0r/cheese-onion-uttapam.jpg",
+      "imgurl": "https://i.ibb.co/W4t1cBVq/cheese-onion-Uthappam.jpg",
       "description": "Uttapam with cheese and onions."
     },
     "Cheese Tomato Uttapam": {
